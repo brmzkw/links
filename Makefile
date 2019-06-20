@@ -1,7 +1,7 @@
 VENV = .virtualenv
 
 
-all: build_venv build_all
+all: build_venv build_all commit push
 
 build_venv:
 	@test -d .virtualenv || (virtualenv "${VENV}" && "${VENV}/bin/pip" install pyrss2gen)
