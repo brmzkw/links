@@ -5,6 +5,7 @@ import datetime
 import json
 import os
 import sys
+import time
 
 import PyRSS2Gen
 
@@ -50,14 +51,33 @@ def build_rss(links, rssfile):
     rss.write_xml(rssfile)
 
 
+def add_entry(linksfile, links, url, keywords):
+    new = {
+        'url': url,
+        'keywords': keywords,
+        'date': time.strftime('%Y/%m/%d')
+    }
+    links.insert(0, new)
+
+    data = json.dumps(links, indent=2, sort_keys=True)
+    with open(linksfile, 'w+') as handle:
+        handle.write(data)
+
+
 def main():
     parser = argparse.ArgumentParser()
+    parser.add_argument('--add', help='Link to add', nargs='+')
     parser.add_argument('--linksfile', type=file, default=DEFAULT_LINKSFILE)
     parser.add_argument('--markdownify', action='store_true', default=False)
     parser.add_argument('--rss', type=argparse.FileType('w+'), default=DEFAULT_RSSFILE)
     args = parser.parse_args()
 
     links = json.loads(args.linksfile.read())
+
+    if args.add:
+        url = args.add[0]
+        keywords = args.add[1:]
+        add_entry(args.linksfile.name, links, url, keywords)
 
     if args.markdownify:
         print(markdownify(links))
