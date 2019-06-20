@@ -1,0 +1,3333 @@
+[
+  {
+    "date": "2019/06/20",
+    "keywords": [
+      "SLO",
+      "SLI",
+      "SLA",
+      "cloud"
+    ],
+    "url": "https://blog.acolyer.org/2019/06/19/nines-are-not-enough/"
+  },
+  {
+    "date": "2019/06/18",
+    "keywords": [
+      "javascript",
+      "console",
+      "features"
+    ],
+    "url": "https://constantin-boulanger.fr/en-faire-plus-avec-la-console-javascript-console-log/"
+  },
+  {
+    "date": "2019/06/10",
+    "keywords": [
+      "docker",
+      "linux",
+      "bootable image"
+    ],
+    "url": "https://micromind.me/en/posts/from-docker-container-to-bootable-linux-disk-image/"
+  },
+  {
+    "date": "2019/04/26",
+    "keywords": [
+      "react",
+      "SSR"
+    ],
+    "url": "https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4"
+  },
+  {
+    "date": "2019/04/26",
+    "keywords": [
+      "django",
+      "react",
+      "templatetags"
+    ],
+    "url": "https://github.com/Frojd/django-react-templatetags"
+  },
+  {
+    "date": "2019/02/05",
+    "keywords": [
+      "Salt",
+      "directory structure"
+    ],
+    "url": "https://salt.thaller.ws"
+  },
+  {
+    "date": "2018/12/26",
+    "keywords": [
+      "gcc",
+      "build hardening",
+      "security"
+    ],
+    "url": "https://blog.erratasec.com/2018/12/notes-on-build-hardening.html"
+  },
+  {
+    "date": "2018/11/19",
+    "keywords": [
+      "quic",
+      "protocol",
+      "review"
+    ],
+    "url": "https://blog.erratasec.com/2018/11/some-notes-about-http3.html"
+  },
+  {
+    "date": "2018/11/15",
+    "keywords": [
+      "python packaging",
+      "newbie"
+    ],
+    "url": "https://manikos.github.io/a-tour-on-python-packaging"
+  },
+  {
+    "date": "2018/11/08",
+    "keywords": [
+      "ipv6",
+      "neighbor solicitation"
+    ],
+    "url": "https://keepingitclassless.net/2011/10/neighbor-solicitation-ipv6s-replacement-for-arp/"
+  },
+  {
+    "date": "2018/11/02",
+    "keywords": [
+      "k8s",
+      "ingress"
+    ],
+    "url": "https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc341c84078"
+  },
+  {
+    "date": "2018/11/02",
+    "keywords": [
+      "kube-proxy"
+    ],
+    "url": "https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82"
+  },
+  {
+    "date": "2018/11/02",
+    "keywords": [
+      "docker",
+      "pause container"
+    ],
+    "url": "https://www.ianlewis.org/en/almighty-pause-container"
+  },
+  {
+    "date": "2018/11/02",
+    "keywords": [
+      "kubernetes",
+      "networking"
+    ],
+    "url": "https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727"
+  },
+  {
+    "date": "2018/10/19",
+    "keywords": [
+      "qemu",
+      "params"
+    ],
+    "url": "https://web.archive.org/web/20180104171638/http://nairobi-embedded.org/qemu_monitor_console.html"
+  },
+  {
+    "date": "2018/10/10",
+    "keywords": [
+      "write",
+      "comments"
+    ],
+    "url": "http://antirez.com/news/124"
+  },
+  {
+    "date": "2018/10/09",
+    "keywords": [
+      "bpftrace",
+      "dtrace"
+    ],
+    "url": "http://www.brendangregg.com/blog/2018-10-08/dtrace-for-linux-2018.html"
+  },
+  {
+    "date": "2018/10/04",
+    "keywords": [
+      "graph",
+      "database"
+    ],
+    "url": "http://janusgraph.org/"
+  },
+  {
+    "date": "2018/08/01",
+    "keywords": [
+      "golang",
+      "tags",
+      "struct",
+      "type"
+    ],
+    "url": "https://stackoverflow.com/questions/10858787/what-are-the-uses-for-tags-in-go"
+  },
+  {
+    "date": "2018/06/25",
+    "keywords": [
+      "remote work"
+    ],
+    "url": "https://www.remoteonly.org/"
+  },
+  {
+    "date": "2018/06/13",
+    "keywords": [
+      "docker",
+      "multi-stage builds",
+      "hacks"
+    ],
+    "url": "https://medium.com/@tonistiigi/advanced-multi-stage-build-patterns-6f741b852fae"
+  },
+  {
+    "date": "2018/05/31",
+    "keywords": [
+      "vim",
+      "awesome",
+      "copy",
+      "paste"
+    ],
+    "url": "https://stackoverflow.com/questions/1497958/how-do-i-use-vim-registers"
+  },
+  {
+    "date": "2018/05/23",
+    "keywords": [
+      "loadbalancing"
+    ],
+    "url": "https://vincent.bernat.im/en/blog/2018-multi-tier-loadbalancer"
+  },
+  {
+    "date": "2018/04/23",
+    "keywords": [
+      "jenkins",
+      "blue ocean",
+      "compatible plugins"
+    ],
+    "url": "https://github.com/jenkinsci/pipeline-plugin/blob/master/COMPATIBILITY.md"
+  },
+  {
+    "date": "2018/03/26",
+    "keywords": [
+      "Linux",
+      "GOT",
+      "PLT"
+    ],
+    "url": "https://0x00sec.org/t/linux-internals-the-art-of-symbol-resolution/1488"
+  },
+  {
+    "date": "2018/03/12",
+    "keywords": [
+      "linux",
+      "kernel",
+      "security",
+      "exploits"
+    ],
+    "url": "https://github.com/xairy/linux-kernel-exploitation"
+  },
+  {
+    "date": "2018/02/21",
+    "keywords": [
+      "sql injection",
+      "tricks"
+    ],
+    "url": "https://websec.wordpress.com/2010/03/19/exploiting-hard-filtered-sql-injections/"
+  },
+  {
+    "date": "2017/11/07",
+    "keywords": [
+      "REUSEPORT",
+      "locality",
+      "CPU"
+    ],
+    "url": "https://blog.cloudflare.com/perfect-locality-and-three-epic-systemtap-scripts/"
+  },
+  {
+    "date": "2017/10/24",
+    "keywords": [
+      "perf examples"
+    ],
+    "url": "http://www.brendangregg.com/perf.html"
+  },
+  {
+    "date": "2017/10/12",
+    "keywords": [
+      "interview",
+      "system design"
+    ],
+    "url": "https://github.com/donnemartin/system-design-primer"
+  },
+  {
+    "date": "2017/06/21",
+    "keywords": [
+      "ipv4",
+      "route",
+      "lookup"
+    ],
+    "url": "https://vincent.bernat.im/en/blog/2017-ipv4-route-lookup-linux"
+  },
+  {
+    "date": "2017/06/01",
+    "keywords": [
+      "8bits",
+      "CPU"
+    ],
+    "url": "https://eater.net/"
+  },
+  {
+    "date": "2017/05/10",
+    "keywords": [
+      "CPU",
+      "utilization"
+    ],
+    "url": "http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html"
+  },
+  {
+    "date": "2017/04/29",
+    "keywords": [
+      "icinga2",
+      "add",
+      "node"
+    ],
+    "url": "https://lowendbox.com/blog/server-monitoring-with-icinga-2-part-2-the-node-ubuntu-host/"
+  },
+  {
+    "date": "2017/01/10",
+    "keywords": [
+      "oauth2",
+      "scenarii"
+    ],
+    "url": "http://www.bubblecode.net/fr/2016/01/22/comprendre-oauth2/"
+  },
+  {
+    "date": "2017/01/03",
+    "keywords": [
+      "DPKG",
+      "prompt",
+      "conffiles"
+    ],
+    "url": "https://raphaelhertzog.com/2010/09/21/debian-conffile-configuration-file-managed-by-dpkg/"
+  },
+  {
+    "date": "2016/12/12",
+    "keywords": [
+      "CEPH",
+      "checklist"
+    ],
+    "url": "http://accelazh.github.io/ceph/Ceph-Performance-Tuning-Checklist"
+  },
+  {
+    "date": "2016/11/28",
+    "keywords": [
+      "kubernetes",
+      "GIT",
+      "PR review"
+    ],
+    "url": "https://github.com/kubernetes/kubernetes/blob/master/docs/devel/faster_reviews.md"
+  },
+  {
+    "date": "2016/11/14",
+    "keywords": [
+      "CPU",
+      "time",
+      "cycles"
+    ],
+    "url": "http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/"
+  },
+  {
+    "date": "2016/11/09",
+    "keywords": [
+      "haproxy",
+      "monitoring"
+    ],
+    "url": "https://thehftguy.wordpress.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/"
+  },
+  {
+    "date": "2016/11/08",
+    "keywords": [
+      "uWSGI",
+      "reloading"
+    ],
+    "url": "http://uwsgi-docs.readthedocs.io/en/latest/articles/TheArtOfGracefulReloading.html"
+  },
+  {
+    "date": "2016/11/08",
+    "keywords": [
+      "postgresql",
+      "autovacuum"
+    ],
+    "url": "https://www.citusdata.com/blog/2016/11/04/autovacuum-not-the-enemy"
+  },
+  {
+    "date": "2016/11/07",
+    "keywords": [
+      "MySQL",
+      "exploit"
+    ],
+    "url": "http://legalhackers.com/advisories/MySQL-Maria-Percona-PrivEscRace-CVE-2016-6663-5616-Exploit.html"
+  },
+  {
+    "date": "2016/10/22",
+    "keywords": [
+      "postgresql",
+      "query",
+      "plan"
+    ],
+    "url": "https://www.postgresql.org/docs/8.4/static/runtime-config-query.html"
+  },
+  {
+    "date": "2016/10/03",
+    "keywords": [
+      "PostgreSQL",
+      "LISTEN",
+      "NOTIFY",
+      "client"
+    ],
+    "url": "https://blog.garage-coding.com/2016/05/25/redesigning-notification.html"
+  },
+  {
+    "date": "2016/09/27",
+    "keywords": [
+      "socket",
+      "SO_REUSEPORT",
+      "SO_REUSEADDR"
+    ],
+    "url": "http://stackoverflow.com/questions/14388706/socket-options-so-reuseaddr-and-so-reuseport-how-do-they-differ-do-they-mean-t"
+  },
+  {
+    "date": "2016/09/02",
+    "keywords": [
+      "target",
+      "_blank",
+      "security",
+      "browsers"
+    ],
+    "url": "https://dev.to/ben/the-targetblank-vulnerability-by-example"
+  },
+  {
+    "date": "2016/08/29",
+    "keywords": [
+      "Intel",
+      "CPU",
+      "monitoring"
+    ],
+    "url": "https://software.intel.com/en-us/articles/intel-performance-counter-monitor"
+  },
+  {
+    "date": "2016/08/18",
+    "keywords": [
+      "filesystems",
+      "consistency",
+      "hard"
+    ],
+    "url": "https://danluu.com/file-consistency/"
+  },
+  {
+    "date": "2016/08/17",
+    "keywords": [
+      "pub",
+      "adblockers"
+    ],
+    "url": "https://www.laquadrature.net/fr/si-vous-etes-le-produit"
+  },
+  {
+    "date": "2016/08/03",
+    "keywords": [
+      "NGINX",
+      "configuration",
+      "pitfalls"
+    ],
+    "url": "https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/"
+  },
+  {
+    "date": "2016/08/03",
+    "keywords": [
+      "PostgreSQL",
+      "uber"
+    ],
+    "url": "http://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/"
+  },
+  {
+    "date": "2016/07/28",
+    "keywords": [
+      "uber",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "url": "https://eng.uber.com/mysql-migration/"
+  },
+  {
+    "date": "2016/07/21",
+    "keywords": [
+      "git",
+      "submodules"
+    ],
+    "url": "https://git-scm.com/book/en/v2/Git-Tools-Submodules"
+  },
+  {
+    "date": "2016/06/08",
+    "keywords": [
+      "netflix",
+      "perf",
+      "checklists"
+    ],
+    "url": "http://www.brendangregg.com/blog/2016-05-04/srecon2016-perf-checklists-for-sres.html"
+  },
+  {
+    "date": "2016/06/07",
+    "keywords": [
+      "PostgreSQL",
+      "base directory content"
+    ],
+    "url": "http://rachbelaid.com/introduction-to-postgres-physical-storage/"
+  },
+  {
+    "date": "2016/05/31",
+    "keywords": [
+      "PostgreSQL",
+      "VACUUM",
+      "ANALYZE",
+      "EXPLAIN",
+      "COUNT"
+    ],
+    "url": "https://wiki.postgresql.org/wiki/Introduction_to_VACUUM,_ANALYZE,_EXPLAIN,_and_COUNT"
+  },
+  {
+    "date": "2016/05/25",
+    "keywords": [
+      "CSS",
+      "floats"
+    ],
+    "url": "https://css-tricks.com/all-about-floats/"
+  },
+  {
+    "date": "2016/05/10",
+    "keywords": [
+      "dns",
+      "geographic",
+      "load balancing"
+    ],
+    "url": "http://gdnsd.org/"
+  },
+  {
+    "date": "2016/05/06",
+    "keywords": [
+      "spotify",
+      "dh_virtualenv",
+      "debian",
+      "python",
+      "packaging"
+    ],
+    "url": "https://labs.spotify.com/2013/10/10/packaging-in-your-packaging-dh-virtualenv/"
+  },
+  {
+    "date": "2016/05/05",
+    "keywords": [
+      "imageimagick",
+      "exploits",
+      "lol"
+    ],
+    "url": "https://imagetragick.com/"
+  },
+  {
+    "date": "2016/05/03",
+    "keywords": [
+      "SSH",
+      "shortcuts",
+      "frozen",
+      "port forwarding"
+    ],
+    "url": "http://blog.infertux.com/2012/12/20/properly-close-a-frozen-ssh-session/"
+  },
+  {
+    "date": "2016/04/27",
+    "keywords": [
+      "golang",
+      "errors",
+      "wrap",
+      "cause"
+    ],
+    "url": "http://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully"
+  },
+  {
+    "date": "2016/04/26",
+    "keywords": [
+      "Python",
+      "time",
+      "datetime"
+    ],
+    "url": "https://s3-eu-west-1.amazonaws.com/myks-org--data/20120916-PyConFR-Il_est_temps.pdf"
+  },
+  {
+    "date": "2016/04/21",
+    "keywords": [
+      "Bit",
+      "Twiddling",
+      "Hacks"
+    ],
+    "url": "https://graphics.stanford.edu/~seander/bithacks.html"
+  },
+  {
+    "date": "2016/04/19",
+    "keywords": [
+      "curl | bash"
+    ],
+    "url": "https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/"
+  },
+  {
+    "date": "2016/04/19",
+    "keywords": [
+      "10gbits",
+      "calculations",
+      "speed"
+    ],
+    "url": "http://netoptimizer.blogspot.fr/2014/05/the-calculations-10gbits-wirespeed.html"
+  },
+  {
+    "date": "2016/04/14",
+    "keywords": [
+      "documentation",
+      "editor"
+    ],
+    "url": "http://mortenjust-experiments.tumblr.com/post/138397510331/this-one-may-have-made-it-into-the-speechwriter"
+  },
+  {
+    "date": "2016/04/11",
+    "keywords": [
+      "kvm",
+      "nested"
+    ],
+    "url": "https://www.kernel.org/doc/Documentation/virtual/kvm/nested-vmx.txt"
+  },
+  {
+    "date": "2016/04/05",
+    "keywords": [
+      "self-hosted",
+      "mailing"
+    ],
+    "url": "http://mailtrain.org/"
+  },
+  {
+    "date": "2016/03/17",
+    "keywords": [
+      "traffic generator",
+      "DPDK"
+    ],
+    "url": "https://github.com/cisco-system-traffic-generator/trex-core"
+  },
+  {
+    "date": "2016/03/02",
+    "keywords": [
+      "Python",
+      "pip",
+      "--process-dependency-links"
+    ],
+    "url": "https://github.com/pypa/pip/issues/2023"
+  },
+  {
+    "date": "2016/03/02",
+    "keywords": [
+      "SSL",
+      "security",
+      "test"
+    ],
+    "url": "http://testssl.sh/"
+  },
+  {
+    "date": "2016/03/01",
+    "keywords": [
+      "Makefile",
+      "documentation"
+    ],
+    "url": "http://marmelab.com/blog/2016/02/29/auto-documented-makefile.html"
+  },
+  {
+    "date": "2016/02/19",
+    "keywords": [
+      "postgresql",
+      "foreign data wrapper",
+      "twitter",
+      "mysql"
+    ],
+    "url": "https://wiki.postgresql.org/wiki/Foreign_data_wrappers"
+  },
+  {
+    "date": "2016/01/27",
+    "keywords": [
+      "methodology",
+      "performances"
+    ],
+    "url": "http://www.brendangregg.com/methodology.html#Summaries"
+  },
+  {
+    "date": "2016/01/22",
+    "keywords": [
+      "cloudflare",
+      "ethtool",
+      "NIC",
+      "10gb",
+      "performances"
+    ],
+    "url": "https://blog.cloudflare.com/how-to-achieve-low-latency/"
+  },
+  {
+    "date": "2016/01/19",
+    "keywords": [
+      "networking",
+      "igb",
+      "kernel",
+      "internals"
+    ],
+    "url": "http://beyond-syntax.com/blog/2011/03/diving-into-linux-networking-i/"
+  },
+  {
+    "date": "2016/01/18",
+    "keywords": [
+      "hyperthreading",
+      "thread affinity"
+    ],
+    "url": "http://eli.thegreenplace.net/2016/c11-threads-affinity-and-hyperthreading/"
+  },
+  {
+    "date": "2015/12/23",
+    "keywords": [
+      "HTTP2",
+      "performances"
+    ],
+    "url": "https://blog.cloudflare.com/http-2-for-web-developers/"
+  },
+  {
+    "date": "2015/12/23",
+    "keywords": [
+      "linux",
+      "perf",
+      "performances"
+    ],
+    "url": "http://www.brendangregg.com/blog/2014-06-22/perf-cpu-sample.html"
+  },
+  {
+    "date": "2015/12/22",
+    "keywords": [
+      "pypi",
+      "local mirror",
+      "pyshop",
+      "tox"
+    ],
+    "url": "http://doc.devpi.net/latest/"
+  },
+  {
+    "date": "2015/12/21",
+    "keywords": [
+      "CSV",
+      "SQL"
+    ],
+    "url": "https://github.com/harelba/q"
+  },
+  {
+    "date": "2015/12/16",
+    "keywords": [
+      "letsencrypt",
+      "feedback"
+    ],
+    "url": "https://blog.imirhil.fr/2015/12/12/letsencrypt-joie-deception.html"
+  },
+  {
+    "date": "2015/12/15",
+    "keywords": [
+      "git",
+      "code-review"
+    ],
+    "url": "https://github.com/google/git-appraise"
+  },
+  {
+    "date": "2015/12/14",
+    "keywords": [
+      "encrypted",
+      "database",
+      "fun"
+    ],
+    "url": "http://blog.zerodb.io/a-peek-under-the-hood/"
+  },
+  {
+    "date": "2015/12/04",
+    "keywords": [
+      "SQLAlchemy",
+      "database",
+      "routing"
+    ],
+    "url": "http://techspot.zzzeek.org/2012/01/11/django-style-database-routers-in-sqlalchemy/"
+  },
+  {
+    "date": "2015/12/03",
+    "keywords": [
+      "networking",
+      "linux",
+      "igb",
+      "drivers"
+    ],
+    "url": "http://beyond-syntax.com/blog/2011/03/diving-into-linux-networking-i/"
+  },
+  {
+    "date": "2015/12/02",
+    "keywords": [
+      "linux",
+      "performances",
+      "analysis"
+    ],
+    "url": "https://media.netflix.com/en/tech-blog/linux-performance-analysis-in-60-000-milliseconds"
+  },
+  {
+    "date": "2015/10/20",
+    "keywords": [
+      "security",
+      "RoR"
+    ],
+    "url": "http://phrack.org/papers/attacking_ruby_on_rails.html"
+  },
+  {
+    "date": "2015/09/07",
+    "keywords": [
+      "PostgreSQL",
+      "trigram",
+      "strings comparison"
+    ],
+    "url": "http://www.postgresql.org/docs/9.1/static/pgtrgm.html"
+  },
+  {
+    "date": "2015/08/25",
+    "keywords": [
+      "dark patterns",
+      "design"
+    ],
+    "url": "http://darkpatterns.org"
+  },
+  {
+    "date": "2015/08/25",
+    "keywords": [
+      "NAT",
+      "RFC",
+      "ICMP"
+    ],
+    "url": "https://tools.ietf.org/html/rfc5508"
+  },
+  {
+    "date": "2015/08/24",
+    "keywords": [
+      "javascript",
+      "backdoor",
+      "compiler",
+      "minification"
+    ],
+    "url": "https://zyan.scripts.mit.edu/blog/backdooring-js/"
+  },
+  {
+    "date": "2015/08/11",
+    "keywords": [
+      "netflix",
+      "performances",
+      "talk",
+      "Brendan Gregg"
+    ],
+    "url": "http://techblog.netflix.com/2015/08/netflix-at-velocity-2015-linux.html"
+  },
+  {
+    "date": "2015/08/05",
+    "keywords": [
+      "Python",
+      "profiling",
+      "top"
+    ],
+    "url": "https://github.com/what-studio/profiling"
+  },
+  {
+    "date": "2015/07/29",
+    "keywords": [
+      "Python",
+      "packaging",
+      "guide"
+    ],
+    "url": "https://python-packaging-user-guide.readthedocs.org/en/latest/"
+  },
+  {
+    "date": "2015/07/16",
+    "keywords": [
+      "callstack",
+      "C",
+      "C++",
+      "libunwind"
+    ],
+    "url": "http://eli.thegreenplace.net/2015/programmatic-access-to-the-call-stack-in-c/"
+  },
+  {
+    "date": "2015/07/15",
+    "keywords": [
+      "UNIX",
+      "command",
+      "execution"
+    ],
+    "url": "http://0x90909090.blogspot.fr/2015/07/no-one-expect-command-execution.html"
+  },
+  {
+    "date": "2015/07/10",
+    "keywords": [
+      "Python",
+      "packaging",
+      "dh-virtualenv"
+    ],
+    "url": "https://nylas.com/blog/packaging-deploying-python"
+  },
+  {
+    "date": "2015/07/06",
+    "keywords": [
+      "diagrams"
+    ],
+    "url": "https://www.draw.io/"
+  },
+  {
+    "date": "2015/07/06",
+    "keywords": [
+      "ASCII",
+      "diagrams"
+    ],
+    "url": "http://asciiflow.com"
+  },
+  {
+    "date": "2015/06/30",
+    "keywords": [
+      "leap second",
+      "options"
+    ],
+    "url": "http://developerblog.redhat.com/2015/06/01/five-different-ways-handle-leap-seconds-ntp/"
+  },
+  {
+    "date": "2015/06/23",
+    "keywords": [
+      "angular",
+      "transclusion"
+    ],
+    "url": "http://teropa.info/blog/2015/06/09/transclusion.html"
+  },
+  {
+    "date": "2015/06/19",
+    "keywords": [
+      "Salt",
+      "best practices"
+    ],
+    "url": "http://docs.saltstack.com/en/latest/topics/best_practices.html"
+  },
+  {
+    "date": "2015/06/16",
+    "keywords": [
+      "cloudflare",
+      "rx",
+      "NUMA",
+      "networking",
+      "performances"
+    ],
+    "url": "https://blog.cloudflare.com/how-to-receive-a-million-packets/"
+  },
+  {
+    "date": "2015/06/04",
+    "keywords": [
+      "Linux",
+      "hugepages"
+    ],
+    "url": "https://www.kernel.org/doc/Documentation/vm/hugetlbpage.txt"
+  },
+  {
+    "date": "2015/05/21",
+    "keywords": [
+      "SSL",
+      "nginx",
+      "generator"
+    ],
+    "url": "https://mozilla.github.io/server-side-tls/ssl-config-generator/"
+  },
+  {
+    "date": "2015/05/20",
+    "keywords": [
+      "psql",
+      "PostgreSQL",
+      "shortcuts",
+      "\\set ECHO_HIDDEN 1",
+      "\\x on"
+    ],
+    "url": "http://www.postgresql.org/docs/9.2/static/app-psql.html"
+  },
+  {
+    "date": "2015/05/15",
+    "keywords": [
+      "ipsec",
+      "AH",
+      "ESP",
+      "headers"
+    ],
+    "url": "http://www.unixwiz.net/techtips/iguide-ipsec.html"
+  },
+  {
+    "date": "2015/05/13",
+    "keywords": [
+      "data compression",
+      "facebook",
+      "cold storage"
+    ],
+    "url": "http://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction"
+  },
+  {
+    "date": "2015/05/05",
+    "keywords": [
+      "angularjs",
+      "performances"
+    ],
+    "url": "http://www.alexkras.com/11-tips-to-improve-angularjs-performance/"
+  },
+  {
+    "date": "2015/04/17",
+    "keywords": [
+      "linux",
+      "internals"
+    ],
+    "url": "http://0xax.gitbooks.io/linux-insides/content/index.html"
+  },
+  {
+    "date": "2015/03/21",
+    "keywords": [
+      "Haskell",
+      "PEP8",
+      "coding style"
+    ],
+    "url": "https://github.com/tweag/guides/blob/master/style/Haskell.md"
+  },
+  {
+    "date": "2015/03/19",
+    "keywords": [
+      "falsehoods",
+      "addresses"
+    ],
+    "url": "https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/"
+  },
+  {
+    "date": "2015/03/19",
+    "keywords": [
+      "falsehoods",
+      "names",
+      "firstname",
+      "lastname"
+    ],
+    "url": "http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/"
+  },
+  {
+    "date": "2015/03/18",
+    "keywords": [
+      "unicode",
+      "east-asian",
+      "wtf"
+    ],
+    "url": "https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name"
+  },
+  {
+    "date": "2015/03/03",
+    "keywords": [
+      "OS",
+      "SQL",
+      "Linux",
+      "OSX"
+    ],
+    "url": "http://osquery.io"
+  },
+  {
+    "date": "2015/02/25",
+    "keywords": [
+      "systemd",
+      "journalctl",
+      "digital ocean"
+    ],
+    "url": "https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs"
+  },
+  {
+    "date": "2015/02/12",
+    "keywords": [
+      "nginx",
+      "sendfile",
+      "TCP_NODELAY",
+      "TCP_NOPUSH"
+    ],
+    "url": "https://t37.net/optimisations-nginx-bien-comprendre-sendfile-tcp-nodelay-et-tcp-nopush.html"
+  },
+  {
+    "date": "2015/02/12",
+    "keywords": [
+      "loops",
+      "movies",
+      "gif",
+      "python",
+      "fun"
+    ],
+    "url": "http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/"
+  },
+  {
+    "date": "2015/01/19",
+    "keywords": [
+      "traceroute"
+    ],
+    "url": "https://major.io/wp-content/uploads/2012/06/RAS_Traceroute_Book_Format.pdf"
+  },
+  {
+    "date": "2015/01/05",
+    "keywords": [
+      "security",
+      "TLS",
+      "SSL",
+      "ciphersuite",
+      "nginx"
+    ],
+    "url": "https://wiki.mozilla.org/Security/Server_Side_TLS"
+  },
+  {
+    "date": "2014/12/30",
+    "keywords": [
+      "music",
+      "generation",
+      "youtube"
+    ],
+    "url": "http://www.jukedeck.com"
+  },
+  {
+    "date": "2014/12/24",
+    "keywords": [
+      "rabbitmq",
+      "howto"
+    ],
+    "url": "https://www.rabbitmq.com/tutorials/tutorial-one-python.html"
+  },
+  {
+    "date": "2014/12/24",
+    "keywords": [
+      "emailing",
+      "howto",
+      "emarketing"
+    ],
+    "url": "https://www.sendwithus.com/resources/guide/"
+  },
+  {
+    "date": "2014/11/28",
+    "keywords": [
+      "random",
+      "biased",
+      "deck of cards"
+    ],
+    "url": "http://datagenetics.com/blog/november42014/index.html"
+  },
+  {
+    "date": "2014/11/12",
+    "keywords": [
+      "Haskell",
+      "functional",
+      "streams"
+    ],
+    "url": "http://bartoszmilewski.com/2014/11/12/formula-1-go-functional/"
+  },
+  {
+    "date": "2014/10/08",
+    "keywords": [
+      "tcpdump",
+      "cheatsheet"
+    ],
+    "url": "http://www.wains.be/pub/networking/tcpdump_advanced_filters.txt"
+  },
+  {
+    "date": "2014/09/05",
+    "keywords": [
+      "reset",
+      "buffer",
+      "memset",
+      "C"
+    ],
+    "url": "http://www.hnwatcher.com/r/1386705/How-to-zero-a-buffer"
+  },
+  {
+    "date": "2014/08/27",
+    "keywords": [
+      "discussion",
+      "useless"
+    ],
+    "url": "http://en.wiktionary.org/wiki/bikeshedding"
+  },
+  {
+    "date": "2014/08/22",
+    "keywords": [
+      "Linux",
+      "performance",
+      "tools"
+    ],
+    "url": "http://www.brendangregg.com/linuxperf.html"
+  },
+  {
+    "date": "2014/08/19",
+    "keywords": [
+      "django",
+      "ORM",
+      "manager",
+      "queryset",
+      "django-model-utils"
+    ],
+    "url": "http://www.dabapps.com/blog/higher-level-query-api-django-orm/"
+  },
+  {
+    "date": "2014/08/14",
+    "keywords": [
+      "humanize",
+      "data",
+      "python"
+    ],
+    "url": "https://github.com/jmoiron/humanize"
+  },
+  {
+    "date": "2014/08/14",
+    "keywords": [
+      "restful",
+      "api",
+      "design"
+    ],
+    "url": "http://restful-api-design.readthedocs.org/en/latest/methods.html"
+  },
+  {
+    "date": "2014/07/30",
+    "keywords": [
+      "django",
+      "packages"
+    ],
+    "url": "https://github.com/rosarior/awesome-django"
+  },
+  {
+    "date": "2014/07/28",
+    "keywords": [
+      "TTY",
+      "PTY",
+      "linux"
+    ],
+    "url": "http://www.linusakesson.net/programming/tty/index.php"
+  },
+  {
+    "date": "2014/07/25",
+    "keywords": [
+      "PHP",
+      "dependency injection"
+    ],
+    "url": "http://fr.slideshare.net/fabpot/dependency-injection-with-php-53"
+  },
+  {
+    "date": "2014/07/24",
+    "keywords": [
+      "progressbars",
+      "cute"
+    ],
+    "url": "http://tympanus.net/Development/ProgressButtonStyles/"
+  },
+  {
+    "date": "2014/07/07",
+    "keywords": [
+      "NPM",
+      "deployment",
+      "production"
+    ],
+    "url": "http://www.letscodejavascript.com/v3/blog/2014/03/the_npm_debacle"
+  },
+  {
+    "date": "2014/07/04",
+    "keywords": [
+      "google",
+      "design",
+      "cool"
+    ],
+    "url": "http://www.google.com/design/spec/material-design"
+  },
+  {
+    "date": "2014/06/24",
+    "keywords": [
+      "python",
+      "packaging",
+      "mess"
+    ],
+    "url": "http://python-notes.curiousefficiency.org/en/latest/pep_ideas/core_packaging_api.html"
+  },
+  {
+    "date": "2014/06/18",
+    "keywords": [
+      "celery",
+      "best",
+      "practices"
+    ],
+    "url": "https://denibertovic.com/posts/celery-best-practices/"
+  },
+  {
+    "date": "2014/06/16",
+    "keywords": [
+      "Django",
+      "sucks",
+      "slides"
+    ],
+    "url": "http://www.scribd.com/doc/37113340/Why-Django-Sucks-and-How-we-Can-Fix-it"
+  },
+  {
+    "date": "2014/06/13",
+    "keywords": [
+      "SQLi",
+      "cheatsheet"
+    ],
+    "url": "http://pentestlab.wordpress.com/2012/12/24/sql-injection-authentication-bypass-cheat-sheet/"
+  },
+  {
+    "date": "2014/05/26",
+    "keywords": [
+      "API",
+      "best practices"
+    ],
+    "url": "www.slideshare.net/jmusser/ten-reasons-developershateyourapi"
+  },
+  {
+    "date": "2014/05/21",
+    "keywords": [
+      "landing page",
+      "marketing",
+      "startup"
+    ],
+    "url": "http://moz.com/blog/most-entertaining-guide-to-landing-page-optimization"
+  },
+  {
+    "date": "2014/05/21",
+    "keywords": [
+      "API",
+      "ReST",
+      "URI"
+    ],
+    "url": "http://micheltriana.com/2013/10/07/uri-design-rest-web-api/"
+  },
+  {
+    "date": "2014/05/21",
+    "keywords": [
+      "security",
+      "cryptography",
+      "pointless"
+    ],
+    "url": "http://regmedia.co.uk/2014/05/16/0955_peter_gutmann.pdf"
+  },
+  {
+    "date": "2014/05/12",
+    "keywords": [
+      "python",
+      "python3",
+      "unicode",
+      "unix",
+      "posix",
+      "lol"
+    ],
+    "url": "http://lucumr.pocoo.org/2014/5/12/everything-about-unicode/"
+  },
+  {
+    "date": "2014/04/28",
+    "keywords": [
+      "design",
+      "cool",
+      "UI",
+      "UX"
+    ],
+    "url": "https://medium.com/webicratic-insights/1ebd994e2c08"
+  },
+  {
+    "date": "2014/04/03",
+    "keywords": [
+      "postgres",
+      "PostgreSQL",
+      "WAL",
+      "tuning",
+      "sync"
+    ],
+    "url": "http://www.westnet.com/~gsmith/content/postgresql/TuningPGWAL.htm"
+  },
+  {
+    "date": "2014/03/18",
+    "keywords": [
+      "icons",
+      "nasty"
+    ],
+    "url": "http://nastyicons.com"
+  },
+  {
+    "date": "2014/03/12",
+    "keywords": [
+      "intro",
+      "presentation",
+      "features"
+    ],
+    "url": "http://usablica.github.io/intro.js/"
+  },
+  {
+    "date": "2014/03/05",
+    "keywords": [
+      "SSH",
+      "publickeys",
+      "certificates"
+    ],
+    "url": "http://neocri.me/documentation/using-ssh-certificate-authentication/"
+  },
+  {
+    "date": "2014/02/28",
+    "keywords": [
+      "javascript",
+      "promise",
+      "pattern",
+      "common mistakes"
+    ],
+    "url": "http://taoofcode.net/promise-anti-patterns/"
+  },
+  {
+    "date": "2014/02/24",
+    "keywords": [
+      "security",
+      "GPS",
+      "tinder"
+    ],
+    "url": "http://blog.includesecurity.com/2014/02/how-i-was-able-to-track-location-of-any.html"
+  },
+  {
+    "date": "2014/02/11",
+    "keywords": [
+      "Python",
+      "internals",
+      "integer",
+      "implementation"
+    ],
+    "url": "http://www.laurentluce.com/posts/python-integer-objects-implementation/"
+  },
+  {
+    "date": "2014/01/30",
+    "keywords": [
+      "serialization",
+      "protobuf",
+      "fast"
+    ],
+    "url": "http://kentonv.github.io/capnproto/"
+  },
+  {
+    "date": "2014/01/29",
+    "keywords": [
+      "containers",
+      "complexity",
+      "algorithmy"
+    ],
+    "url": "http://bigocheatsheet.com"
+  },
+  {
+    "date": "2014/01/20",
+    "keywords": [
+      "NUMA",
+      "UMA",
+      "MySQL",
+      "performance",
+      "swap"
+    ],
+    "url": "http://blog.jcole.us/2010/09/28/mysql-swap-insanity-and-the-numa-architecture/"
+  },
+  {
+    "date": "2014/01/17",
+    "keywords": [
+      "chat",
+      "quiet",
+      "sound",
+      "communication"
+    ],
+    "url": "https://github.com/Katee/quietnet"
+  },
+  {
+    "date": "2014/01/10",
+    "keywords": [
+      "parse DNS zone"
+    ],
+    "url": "https://pypi.python.org/pypi/easyzone"
+  },
+  {
+    "date": "2014/01/06",
+    "keywords": [
+      "design",
+      "dashboard",
+      "cute"
+    ],
+    "url": "http://svay.com/blog/how-to-design-a-dashboard/"
+  },
+  {
+    "date": "2013/12/30",
+    "keywords": [
+      "SSD",
+      "hard drive",
+      "benchmark"
+    ],
+    "url": "http://lkcl.net/reports/ssd_analysis.html"
+  },
+  {
+    "date": "2013/12/24",
+    "keywords": [
+      "SQLAlchemy",
+      "router",
+      "master",
+      "slave"
+    ],
+    "url": "http://techspot.zzzeek.org/2012/01/11/django-style-database-routers-in-sqlalchemy/"
+  },
+  {
+    "date": "2013/12/23",
+    "keywords": [
+      "databases",
+      "benchmark",
+      "NoSQL",
+      "awesome"
+    ],
+    "url": "http://aphyr.com"
+  },
+  {
+    "date": "2013/12/17",
+    "keywords": [
+      "lol",
+      "php"
+    ],
+    "url": "http://news.php.net/php.internals/70691"
+  },
+  {
+    "date": "2013/12/17",
+    "keywords": [
+      "pypi",
+      "mirror",
+      "cache",
+      "local"
+    ],
+    "url": "http://doc.devpi.net/latest/"
+  },
+  {
+    "date": "2013/12/12",
+    "keywords": [
+      "simplify",
+      "graph",
+      "visual",
+      "graphics",
+      "data"
+    ],
+    "url": "http://blog.hubspot.com/marketing/data-graph-design-powerpoint-tips-ht"
+  },
+  {
+    "date": "2013/12/06",
+    "keywords": [
+      "Python",
+      "database migration"
+    ],
+    "url": "http://alembic.readthedocs.org/en/latest/"
+  },
+  {
+    "date": "2013/11/14",
+    "keywords": [
+      "queues",
+      "0mq",
+      "RabbitMQ",
+      "celery",
+      "RQ",
+      "Amazon SQS"
+    ],
+    "url": "http://queues.io"
+  },
+  {
+    "date": "2013/11/13",
+    "keywords": [
+      "Amazon",
+      "AWS",
+      "patterns"
+    ],
+    "url": "http://en.clouddesignpattern.org/index.php/Main_Page"
+  },
+  {
+    "date": "2013/11/05",
+    "keywords": [
+      "javascript",
+      "lol",
+      "comparisons"
+    ],
+    "url": "http://blog.vjeux.com/2013/javascript/bitwise-truthiness.html"
+  },
+  {
+    "date": "2013/10/07",
+    "keywords": [
+      "Javascript",
+      "SEO",
+      "phantom.js"
+    ],
+    "url": "http://prerender.io"
+  },
+  {
+    "date": "2013/10/02",
+    "keywords": [
+      "django",
+      "user",
+      "account",
+      "privatemessage",
+      "django app"
+    ],
+    "url": "http://docs.django-userena.org/en/latest/index.html"
+  },
+  {
+    "date": "2013/07/29",
+    "keywords": [
+      "disk encryption",
+      "security",
+      "boot"
+    ],
+    "url": "https://twopointfouristan.wordpress.com/2011/04/17/pwning-past-whole-disk-encryption/"
+  },
+  {
+    "date": "2013/06/19",
+    "keywords": [
+      "unicode",
+      "security",
+      "python",
+      "spotify"
+    ],
+    "url": "http://labs.spotify.com/2013/06/18/creative-usernames/"
+  },
+  {
+    "date": "2013/05/29",
+    "keywords": [
+      "CSS",
+      "framework",
+      "tiny"
+    ],
+    "url": "http://purecss.io"
+  },
+  {
+    "date": "2013/05/28",
+    "keywords": [
+      "C",
+      "test"
+    ],
+    "url": "http://stevenkobes.com/ctest.html"
+  },
+  {
+    "date": "2013/05/26",
+    "keywords": [
+      "HMTL5",
+      "cool features",
+      "prefetching",
+      "DNS"
+    ],
+    "url": "http://daker.me/2013/05/5-html5-features-you-need-to-know.html"
+  },
+  {
+    "date": "2013/05/15",
+    "keywords": [
+      "0mq",
+      "global context"
+    ],
+    "url": "http://www.250bpm.com/blog:23"
+  },
+  {
+    "date": "2013/05/13",
+    "keywords": [
+      "scale",
+      "network",
+      "10 millions",
+      "kernel"
+    ],
+    "url": "http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html"
+  },
+  {
+    "date": "2013/05/07",
+    "keywords": [
+      "HTTP",
+      "host",
+      "cache",
+      "poisoning"
+    ],
+    "url": "http://www.skeletonscribe.net/2013/05/practical-http-host-header-attacks.html"
+  },
+  {
+    "date": "2013/05/06",
+    "keywords": [
+      "Django",
+      "mezzanine",
+      "framework",
+      "CMS",
+      "blog"
+    ],
+    "url": "http://mezzanine.jupo.org"
+  },
+  {
+    "date": "2013/05/06",
+    "keywords": [
+      "Django",
+      "ecommerce",
+      "shopping cart"
+    ],
+    "url": "http://cartridge.jupo.org"
+  },
+  {
+    "date": "2013/04/26",
+    "keywords": [
+      "Apache",
+      "NGINX",
+      "logs",
+      "video",
+      "pretty"
+    ],
+    "url": "https://code.google.com/p/logstalgia/"
+  },
+  {
+    "date": "2013/04/23",
+    "keywords": [
+      "oriented graphs",
+      "javascript"
+    ],
+    "url": "http://getspringy.com"
+  },
+  {
+    "date": "2013/04/16",
+    "keywords": [
+      "testing",
+      "clock"
+    ],
+    "url": "http://twistedoakstudios.com/blog/Post3516_rule-of-thumb-ask-for-the-clock"
+  },
+  {
+    "date": "2013/04/16",
+    "keywords": [
+      "pinterest",
+      "scale",
+      "scalibility"
+    ],
+    "url": "http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html"
+  },
+  {
+    "date": "2013/04/09",
+    "keywords": [
+      "Javascript",
+      "resources"
+    ],
+    "url": "http://superherojs.com"
+  },
+  {
+    "date": "2013/04/05",
+    "keywords": [
+      "SQL",
+      "joins",
+      "visual",
+      "representation"
+    ],
+    "url": "http://www.codinghorror.com/blog/2007/10/a-visual-explanation-of-sql-joins.html"
+  },
+  {
+    "date": "2013/04/04",
+    "keywords": [
+      "Haskell",
+      "functional",
+      "concurrency"
+    ],
+    "url": "https://www.fpcomplete.com/user/simonpj/beautiful-concurrency/"
+  },
+  {
+    "date": "2013/04/04",
+    "keywords": [
+      "web",
+      "performance",
+      "javascript",
+      "css",
+      "mobile"
+    ],
+    "url": "http://www.igvita.com/slides/2013/breaking-1s-mobile-barrier.pdf"
+  },
+  {
+    "date": "2013/03/28",
+    "keywords": [
+      "javascript",
+      "dates"
+    ],
+    "url": "http://momentjs.com"
+  },
+  {
+    "date": "2013/03/27",
+    "keywords": [
+      "password",
+      "storing",
+      "security",
+      "salt"
+    ],
+    "url": "http://www.opine.me/a-better-way-to-store-password-hashes/"
+  },
+  {
+    "date": "2013/03/13",
+    "keywords": [
+      "Django",
+      "template filters",
+      "template tags",
+      "template simple_tags",
+      "template inclusion_tags"
+    ],
+    "url": "http://stackoverflow.com/a/5586860"
+  },
+  {
+    "date": "2013/03/12",
+    "keywords": [
+      "Python",
+      "strings comparison",
+      "best matching"
+    ],
+    "url": "http://code.google.com/p/pylevenshtein/"
+  },
+  {
+    "date": "2013/03/08",
+    "keywords": [
+      "haskell",
+      "monads",
+      "functional"
+    ],
+    "url": "https://www.fpcomplete.com/school/basics-of-haskell/3-pure-functions-laziness-i-o-and-monads"
+  },
+  {
+    "date": "2013/03/07",
+    "keywords": [
+      "images processing",
+      "papers"
+    ],
+    "url": "http://www.ipol.im"
+  },
+  {
+    "date": "2013/03/05",
+    "keywords": [
+      "libffi",
+      "C",
+      "call function prototype runtime"
+    ],
+    "url": "http://sourceware.org/libffi/"
+  },
+  {
+    "date": "2013/02/26",
+    "keywords": [
+      "video",
+      "search",
+      "Thomas Meson",
+      "Steeve Morin",
+      "indexing",
+      "startup"
+    ],
+    "url": "http://veezio.com"
+  },
+  {
+    "date": "2013/02/19",
+    "keywords": [
+      "database",
+      "queue",
+      "MySQL",
+      "rabbitmq"
+    ],
+    "url": "https://blog.engineyard.com/2011/5-subtle-ways-youre-using-mysql-as-a-queue-and-why-itll-bite-you"
+  },
+  {
+    "date": "2013/02/14",
+    "keywords": [
+      "software programmer",
+      "company",
+      "trello",
+      "work conditions"
+    ],
+    "url": "http://www.fogcreek.com/about.html"
+  },
+  {
+    "date": "2013/02/06",
+    "keywords": [
+      "Python",
+      "MRO"
+    ],
+    "url": "http://www.python.org/download/releases/2.3/mro/"
+  },
+  {
+    "date": "2013/02/06",
+    "keywords": [
+      "Python",
+      "new style classes"
+    ],
+    "url": "http://python-history.blogspot.co.uk/2010/06/inside-story-on-new-style-classes.html"
+  },
+  {
+    "date": "2013/02/05",
+    "keywords": [
+      "Python",
+      "internals",
+      "articles"
+    ],
+    "url": "http://en.wordpress.com/tag/pythons-innards/"
+  },
+  {
+    "date": "2013/01/30",
+    "keywords": [
+      "debian",
+      "maintainer",
+      "guide"
+    ],
+    "url": "http://www.debian.org/doc/manuals/maint-guide/"
+  },
+  {
+    "date": "2013/01/28",
+    "keywords": [
+      "Python",
+      "deploy",
+      "setuptools",
+      "pip",
+      "distutils",
+      "sucks"
+    ],
+    "url": "http://lucumr.pocoo.org/2012/6/22/hate-hate-hate-everywhere/"
+  },
+  {
+    "date": "2013/01/28",
+    "keywords": [
+      "SQL",
+      "indexes"
+    ],
+    "url": "http://fr.slideshare.net/billkarwin/how-to-design-indexes-really"
+  },
+  {
+    "date": "2013/01/22",
+    "keywords": [
+      "Debian",
+      "Mentors",
+      "FAQ",
+      "packaging"
+    ],
+    "url": "http://wiki.debian.org/DebianMentorsFaq"
+  },
+  {
+    "date": "2013/01/21",
+    "keywords": [
+      "systemd",
+      "sysvinit",
+      "cheatsheet"
+    ],
+    "url": "http://fedoraproject.org/wiki/SysVinit_to_Systemd_Cheatsheet"
+  },
+  {
+    "date": "2013/01/17",
+    "keywords": [
+      "Python",
+      "setuptools",
+      "plugins",
+      "packaging"
+    ],
+    "url": "http://packages.python.org/distribute/setuptools.html#dynamic-discovery-of-services-and-plugins"
+  },
+  {
+    "date": "2013/01/16",
+    "keywords": [
+      "SQL",
+      "index",
+      "performance",
+      "database"
+    ],
+    "url": "http://use-the-index-luke.com/fr/sql/preface"
+  },
+  {
+    "date": "2013/01/15",
+    "keywords": [
+      "CSS",
+      "resize",
+      "upscale",
+      "downscale"
+    ],
+    "url": "http://blog.vjeux.com/2013/image/css-container-and-cover.html"
+  },
+  {
+    "date": "2013/01/14",
+    "keywords": [
+      "C",
+      "container",
+      "Judy",
+      "array",
+      "hashmap",
+      "efficient",
+      "cachemiss"
+    ],
+    "url": "http://judy.sourceforge.net"
+  },
+  {
+    "date": "2013/01/11",
+    "keywords": [
+      "C",
+      "ftw"
+    ],
+    "url": "http://damienkatz.net/2013/01/the_unreasonable_effectiveness_of_c.html"
+  },
+  {
+    "date": "2013/01/10",
+    "keywords": [
+      "Python",
+      "Django",
+      "pylint"
+    ],
+    "url": "https://chris-lamb.co.uk/projects/django-lint"
+  },
+  {
+    "date": "2013/01/10",
+    "keywords": [
+      "Python2",
+      "to",
+      "Python3"
+    ],
+    "url": "http://lucumr.pocoo.org/2011/1/22/forwards-compatible-python/"
+  },
+  {
+    "date": "2013/01/08",
+    "keywords": [
+      "regex",
+      "standards",
+      "POSIX"
+    ],
+    "url": "http://eli.thegreenplace.net/2012/11/14/some-notes-on-posix-regular-expressions/"
+  },
+  {
+    "date": "2012/12/29",
+    "keywords": [
+      "linux",
+      "sysenter",
+      "asm"
+    ],
+    "url": "http://articles.manugarg.com/systemcallinlinux2_6.html"
+  },
+  {
+    "date": "2012/12/28",
+    "keywords": [
+      "software",
+      "versioning",
+      "numbers"
+    ],
+    "url": "http://semver.org"
+  },
+  {
+    "date": "2012/12/18",
+    "keywords": [
+      "Django",
+      "devserver",
+      "runserver"
+    ],
+    "url": "https://github.com/dcramer/django-devserver"
+  },
+  {
+    "date": "2012/12/11",
+    "keywords": [
+      "C++ hate",
+      "C++ love"
+    ],
+    "url": "http://simpleprogrammer.com/2012/12/01/why-c-is-not-back/"
+  },
+  {
+    "date": "2012/12/07",
+    "keywords": [
+      "hacking",
+      "stackoverflow",
+      "admin IP protected",
+      "X-Forwarded-For",
+      "REMOTE_ADDR"
+    ],
+    "url": "http://blog.ircmaxell.com/2012/11/anatomy-of-attack-how-i-hacked.html"
+  },
+  {
+    "date": "2012/12/07",
+    "keywords": [
+      "web",
+      "security",
+      "hacking"
+    ],
+    "url": "http://blog.whitehatsec.com/top-ten-web-hacking-techniques-of-2012/"
+  },
+  {
+    "date": "2012/11/29",
+    "keywords": [
+      "C library",
+      "fault injection"
+    ],
+    "url": "http://blitiri.com.ar/p/libfiu/"
+  },
+  {
+    "date": "2012/11/28",
+    "keywords": [
+      "bootstrap",
+      "extend",
+      "plugins"
+    ],
+    "url": "http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources"
+  },
+  {
+    "date": "2012/11/27",
+    "keywords": [
+      "HTML",
+      "x-tags"
+    ],
+    "url": "http://x-tags.org/"
+  },
+  {
+    "date": "2012/11/25",
+    "keywords": [
+      "bootstrap",
+      "editable",
+      "form"
+    ],
+    "url": "http://vitalets.github.com/x-editable/"
+  },
+  {
+    "date": "2012/11/19",
+    "keywords": [
+      "HTML5",
+      "boilerplate"
+    ],
+    "url": "http://www.initializr.com/"
+  },
+  {
+    "date": "2012/11/13",
+    "keywords": [
+      "C++",
+      "brainfuck",
+      "meta programming",
+      "templates"
+    ],
+    "url": "http://blog.rfw.name/2012/11/12/brainfuck_with_templates.html"
+  },
+  {
+    "date": "2012/11/06",
+    "keywords": [
+      "cloudflare",
+      "google",
+      "offline",
+      "BGP"
+    ],
+    "url": "http://blog.cloudflare.com/why-google-went-offline-today-and-a-bit-about"
+  },
+  {
+    "date": "2012/11/05",
+    "keywords": [
+      "Django",
+      "sentry",
+      "error tracking"
+    ],
+    "url": "http://blog.disqus.com/post/1178923988/django-sentry"
+  },
+  {
+    "date": "2012/11/05",
+    "keywords": [
+      "apache",
+      "module",
+      "xsendfile",
+      "serve static files authenticated"
+    ],
+    "url": "https://tn123.org/mod_xsendfile/"
+  },
+  {
+    "date": "2012/11/04",
+    "keywords": [
+      "attach",
+      "program",
+      "terminal",
+      "screen",
+      "interrupt"
+    ],
+    "url": "https://github.com/nelhage/reptyr"
+  },
+  {
+    "date": "2012/10/23",
+    "keywords": [
+      "Python",
+      "strong formatting",
+      "locals"
+    ],
+    "url": "http://stackoverflow.com/questions/1550479/python-is-using-vars-locals-a-good-practice"
+  },
+  {
+    "date": "2012/10/18",
+    "keywords": [
+      "MongoDB",
+      "avoid",
+      "mistakes"
+    ],
+    "url": "http://snmaynard.com/2012/10/17/things-i-wish-i-knew-about-mongodb-a-year-ago/"
+  },
+  {
+    "date": "2012/10/16",
+    "keywords": [
+      "slides",
+      "Python",
+      "parallel",
+      "celery",
+      "iPython",
+      "XML-RPC"
+    ],
+    "url": "https://speakerdeck.com/u/timclicks/p/case-studies-of-python-in-parallel"
+  },
+  {
+    "date": "2012/10/16",
+    "keywords": [
+      "asynchronous task queue/job"
+    ],
+    "url": "Python"
+  },
+  {
+    "date": "2012/10/16",
+    "keywords": [
+      "database",
+      "schema",
+      "migration"
+    ],
+    "url": "http://schemasync.org/"
+  },
+  {
+    "date": "2012/10/16",
+    "keywords": [
+      "database",
+      "versioning"
+    ],
+    "url": "http://www.codinghorror.com/blog/2008/02/get-your-database-under-version-control.html"
+  },
+  {
+    "date": "2012/10/14",
+    "keywords": [
+      "tool",
+      "graphics"
+    ],
+    "url": "http://www.easel.ly"
+  },
+  {
+    "date": "2012/10/09",
+    "keywords": [
+      "fullscreen",
+      "attack"
+    ],
+    "url": "http://feross.org/html5-fullscreen-api-attack/"
+  },
+  {
+    "date": "2012/10/09",
+    "keywords": [
+      "limits",
+      "PATH_MAX",
+      "Linux",
+      "Windows"
+    ],
+    "url": "http://insanecoding.blogspot.fr/2007/11/pathmax-simply-isnt.html"
+  },
+  {
+    "date": "2012/10/08",
+    "keywords": [
+      "Debian",
+      "FHS",
+      "Linux",
+      "Filesystem hierarchy"
+    ],
+    "url": "http://www.pathname.com/fhs/pub/fhs-2.3.html#THEVARHIERARCHY"
+  },
+  {
+    "date": "2012/10/08",
+    "keywords": [
+      "criticism",
+      "philosophy"
+    ],
+    "url": "http://simpleprogrammer.com/2012/10/07/calling-someones-baby-ugly/"
+  },
+  {
+    "date": "2012/10/03",
+    "keywords": [
+      "C++",
+      "metaprogramming",
+      "strings"
+    ],
+    "url": "http://cpp-next.com/archive/2012/10/using-strings-in-c-template-metaprograms/"
+  },
+  {
+    "date": "2012/10/02",
+    "keywords": [
+      "Javascript",
+      "demoscene",
+      "obfuscation",
+      "wtf"
+    ],
+    "url": "http://www.p01.org/releases/MATRAKA/matraka.png.html"
+  },
+  {
+    "date": "2012/09/24",
+    "keywords": [
+      "png",
+      "animation",
+      "GIF"
+    ],
+    "url": "http://www.sublimetext.com/~jps/animated_gifs_the_hard_way.html"
+  },
+  {
+    "date": "2012/09/21",
+    "keywords": [
+      "python",
+      "package",
+      "single file",
+      "zip"
+    ],
+    "url": "http://www.evanjones.ca/software/packagepy.html"
+  },
+  {
+    "date": "2012/09/19",
+    "keywords": [
+      "https",
+      "web",
+      "security"
+    ],
+    "url": "http://blog.whitehatsec.com/crime-mitm-and-xss/"
+  },
+  {
+    "date": "2012/09/19",
+    "keywords": [
+      "abstractions drawbacks"
+    ],
+    "url": "http://www.joelonsoftware.com/articles/LeakyAbstractions.html"
+  },
+  {
+    "date": "2012/09/04",
+    "keywords": [
+      "socket",
+      "programming"
+    ],
+    "url": "http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html"
+  },
+  {
+    "date": "2012/09/03",
+    "keywords": [
+      "jquery",
+      "popup"
+    ],
+    "url": "http://labs.voronianski.com/jquery.avgrund.js/"
+  },
+  {
+    "date": "2012/08/26",
+    "keywords": [
+      "security",
+      "XSS",
+      "DNS"
+    ],
+    "url": "http://www.skullsecurity.org/blog/2010/stuffing-javascript-into-dns-names"
+  },
+  {
+    "date": "2012/08/20",
+    "keywords": [
+      "security",
+      "code pin",
+      "leak",
+      "lol"
+    ],
+    "url": "http://www.positiveatheism.org/crt/pin.htm"
+  },
+  {
+    "date": "2012/08/14",
+    "keywords": [
+      "security",
+      "MacOSX",
+      "viscatory",
+      "setuid",
+      "lol"
+    ],
+    "url": "http://git.zx2c4.com/Viscatory/tree/viscatory.sh"
+  },
+  {
+    "date": "2012/08/14",
+    "keywords": [
+      "security",
+      "MacOSX",
+      "Tunnel Blick",
+      "setuid",
+      "lol"
+    ],
+    "url": "http://git.zx2c4.com/Pwnnel-Blicker/tree/pwnnel-blicker.c"
+  },
+  {
+    "date": "2012/08/14",
+    "keywords": [
+      "Linux",
+      "vs",
+      "BSD"
+    ],
+    "url": "http://www.over-yonder.net/~fullermd/rants/bsd4linux/01"
+  },
+  {
+    "date": "2012/08/09",
+    "keywords": [
+      "git",
+      "branching",
+      "model"
+    ],
+    "url": "http://nvie.com/posts/a-successful-git-branching-model/"
+  },
+  {
+    "date": "2012/08/09",
+    "keywords": [
+      "js",
+      "javascript",
+      "frameworks",
+      "comparison"
+    ],
+    "url": "http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/"
+  },
+  {
+    "date": "2012/08/06",
+    "keywords": [
+      "threading",
+      "lock",
+      "benchmark",
+      "mutex",
+      "spinlock",
+      "atomic"
+    ],
+    "url": "http://demin.ws/blog/english/2012/05/05/atomic-spinlock-mutex/"
+  },
+  {
+    "date": "2012/08/03",
+    "keywords": [
+      "website",
+      "scale",
+      "howto"
+    ],
+    "url": "http://amix.dk/blog/post/19709"
+  },
+  {
+    "date": "2012/07/25",
+    "keywords": [
+      "dropbox",
+      "scaling",
+      "lessons"
+    ],
+    "url": "http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1"
+  },
+  {
+    "date": "2012/07/20",
+    "keywords": [
+      "MySQL",
+      "optimization",
+      "ORDER BY / LIMIT"
+    ],
+    "url": "http://explainextended.com/2009/10/23/mysql-order-by-limit-performance-late-row-lookups/"
+  },
+  {
+    "date": "2012/07/13",
+    "keywords": [
+      "mockups",
+      "free"
+    ],
+    "url": "https://moqups.com/"
+  },
+  {
+    "date": "2012/07/09",
+    "keywords": [
+      "nginx",
+      "architecture"
+    ],
+    "url": "http://www.aosabook.org/en/nginx.html"
+  },
+  {
+    "date": "2012/06/07",
+    "keywords": [
+      "pipe",
+      "select",
+      "unblock",
+      "thread"
+    ],
+    "url": "http://cr.yp.to/docs/selfpipe.html"
+  },
+  {
+    "date": "2012/06/06",
+    "keywords": [
+      "timing",
+      "operations"
+    ],
+    "url": "http://norvig.com/21-days.html#answers"
+  },
+  {
+    "date": "2012/06/06",
+    "keywords": [
+      "teach programming"
+    ],
+    "url": "http://norvig.com/21-days.html"
+  },
+  {
+    "date": "2012/06/01",
+    "keywords": [
+      "GUI",
+      "testing",
+      "Linux",
+      "Xorg"
+    ],
+    "url": "http://www.semicomplete.com/projects/xdotool/xdotool.xhtml"
+  },
+  {
+    "date": "2012/05/31",
+    "keywords": [
+      "webapps",
+      "widgets"
+    ],
+    "url": "http://www.thetoolbox.cc"
+  },
+  {
+    "date": "2012/05/30",
+    "keywords": [
+      "google",
+      "guidelines",
+      "coding style",
+      "C++"
+    ],
+    "url": "http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml"
+  },
+  {
+    "date": "2012/05/24",
+    "keywords": [
+      "CORS",
+      "Cross Origin Resource Sharing",
+      "XHR"
+    ],
+    "url": "https://developer.mozilla.org/en/http_access_control"
+  },
+  {
+    "date": "2012/05/21",
+    "keywords": [
+      "python",
+      "debugger",
+      "pdb"
+    ],
+    "url": "http://docs.python.org/library/pdb.html"
+  },
+  {
+    "date": "2012/05/21",
+    "keywords": [
+      "logs centralizer",
+      "hadoop",
+      "mongodb"
+    ],
+    "url": "http://soat.developpez.com/articles/bigdatahadoop/"
+  },
+  {
+    "date": "2012/05/10",
+    "keywords": [
+      "C++",
+      "exceptions",
+      "issues"
+    ],
+    "url": "http://www.250bpm.com/blog:4"
+  },
+  {
+    "date": "2012/05/10",
+    "keywords": [
+      "couchdb",
+      "issues"
+    ],
+    "url": "http://saucelabs.com/blog/index.php/2012/05/goodbye-couchdb/"
+  },
+  {
+    "date": "2012/05/10",
+    "keywords": [
+      "ORM",
+      "sqlalchemy vs Django"
+    ],
+    "url": "http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/"
+  },
+  {
+    "date": "2012/05/09",
+    "keywords": [
+      "MySQL",
+      "performance",
+      "tips"
+    ],
+    "url": "http://forge.mysql.com/wiki/Top10SQLPerformanceTips"
+  },
+  {
+    "date": "2012/05/03",
+    "keywords": [
+      "apache",
+      "mod-spdy",
+      "speedy",
+      "http"
+    ],
+    "url": "http://code.google.com/p/mod-spdy/"
+  },
+  {
+    "date": "2012/04/19",
+    "keywords": [
+      "django",
+      "tastypie",
+      "REST",
+      "API"
+    ],
+    "url": "http://django-tastypie.readthedocs.org/en/latest/index.html"
+  },
+  {
+    "date": "2012/04/19",
+    "keywords": [
+      "django",
+      "fcgi",
+      "gunicorn",
+      "uwsgi",
+      "benchmark"
+    ],
+    "url": "http://www.peterbe.com/plog/fcgi-vs-gunicorn-vs-uwsgi"
+  },
+  {
+    "date": "2012/04/05",
+    "keywords": [
+      "css3",
+      "effects",
+      "buttons"
+    ],
+    "url": "http://thecodeplayer.com/walkthrough/simple-yet-amazing-css3-border-transition-effects"
+  },
+  {
+    "date": "2012/04/04",
+    "keywords": [
+      "python",
+      "collections",
+      "namedtuple"
+    ],
+    "url": "http://docs.python.org/library/collections.html#collections.namedtuple"
+  },
+  {
+    "date": "2012/04/01",
+    "keywords": [
+      "apache",
+      "performance"
+    ],
+    "url": "http://www.howtoforge.com/configuring_apache_for_maximum_performance"
+  },
+  {
+    "date": "2012/03/30",
+    "keywords": [
+      "django 1.4",
+      "changelog"
+    ],
+    "url": "https://docs.djangoproject.com/en/dev/releases/1.4/"
+  },
+  {
+    "date": "2012/03/30",
+    "keywords": [
+      "browser",
+      "unittest"
+    ],
+    "url": "http://seleniumhq.org"
+  },
+  {
+    "date": "2012/03/29",
+    "keywords": [
+      "C++",
+      "python",
+      "read",
+      "performances"
+    ],
+    "url": "http://stackoverflow.com/questions/9371238/why-is-reading-lines-from-stdin-much-slower-in-c-than-python"
+  },
+  {
+    "date": "2012/03/15",
+    "keywords": [
+      "python",
+      "range",
+      "xrange"
+    ],
+    "url": "http://stackoverflow.com/questions/135041/should-you-always-favor-xrange-over-range"
+  },
+  {
+    "date": "2012/03/14",
+    "keywords": [
+      "redis",
+      "memory",
+      "scale"
+    ],
+    "url": "http://redis.io/topics/faq"
+  },
+  {
+    "date": "2012/03/14",
+    "keywords": [
+      "redis",
+      "twitter clone"
+    ],
+    "url": "http://redis.io/topics/twitter-clone"
+  },
+  {
+    "date": "2012/03/05",
+    "keywords": [
+      "wayland",
+      "Xorg",
+      "linux"
+    ],
+    "url": "http://linuxfr.org/news/pourquoi-wayland-veut-remplacer-x"
+  },
+  {
+    "date": "2012/03/05",
+    "keywords": [
+      "NoSQL",
+      "graph"
+    ],
+    "url": "http://blog.nahurst.com/visual-guide-to-nosql-systems"
+  },
+  {
+    "date": "2012/03/04",
+    "keywords": [
+      "HTML5",
+      "polyfills",
+      "compatibility"
+    ],
+    "url": "https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills"
+  },
+  {
+    "date": "2012/02/27",
+    "keywords": [
+      "css",
+      "jmpress",
+      "3d"
+    ],
+    "url": "http://shama.github.com/jmpress.js/#/home"
+  },
+  {
+    "date": "2012/02/22",
+    "keywords": [
+      "asm",
+      "calling convention",
+      "x86",
+      "x64"
+    ],
+    "url": "http://stackoverflow.com/questions/2535989/what-are-the-calling-conventions-for-unix-linux-system-calls-on-x86-64"
+  },
+  {
+    "date": "2012/02/13",
+    "keywords": [
+      "linux",
+      "VDSO",
+      "syscalls"
+    ],
+    "url": "http://justanothergeek.chdir.org/2010/02/how-system-calls-work-on-recent-linux.html"
+  },
+  {
+    "date": "2012/02/13",
+    "keywords": [
+      "php",
+      "security",
+      "buffer overflow",
+      "htmlspecialchars"
+    ],
+    "url": "http://downloads.securityfocus.com/vulnerabilities/exploits/51860.txt"
+  },
+  {
+    "date": "2012/02/13",
+    "keywords": [
+      "bash",
+      "CDPATH",
+      "shellscript"
+    ],
+    "url": "http://bosker.wordpress.com/2012/02/12/bash-scripters-beware-of-the-cdpath/"
+  },
+  {
+    "date": "2012/02/01",
+    "keywords": [
+      "Bootstrap",
+      "CSS",
+      "webdev",
+      "design"
+    ],
+    "url": "http://twitter.github.com/bootstrap/"
+  },
+  {
+    "date": "2012/01/31",
+    "keywords": [
+      "css3"
+    ],
+    "url": "http://www.css3.info/preview/"
+  },
+  {
+    "date": "2012/01/27",
+    "keywords": [
+      "css3"
+    ],
+    "url": "http://www.css3maker.com"
+  },
+  {
+    "date": "2012/01/26",
+    "keywords": [
+      "python",
+      "multiprocessing",
+      "network",
+      "distributed"
+    ],
+    "url": "http://eli.thegreenplace.net/2012/01/24/distributed-computing-in-python-with-multiprocessing/"
+  },
+  {
+    "date": "2012/01/17",
+    "keywords": [
+      "nginx",
+      "create module"
+    ],
+    "url": "http://www.evanmiller.org/nginx-modules-guide.html"
+  },
+  {
+    "date": "2012/01/17",
+    "keywords": [
+      "python2",
+      "python3",
+      "GIL",
+      "threads",
+      "performance"
+    ],
+    "url": "http://www.dabeaz.com/python/UnderstandingGIL.pdf"
+  },
+  {
+    "date": "2012/01/17",
+    "keywords": [
+      "python",
+      "multiprocessing",
+      "benchmark"
+    ],
+    "url": "http://eli.thegreenplace.net/2012/01/16/python-parallelizing-cpu-bound-tasks-with-multiprocessing/"
+  },
+  {
+    "date": "2012/01/16",
+    "keywords": [
+      "python3"
+    ],
+    "url": "http://python3porting.com/preparing.html"
+  },
+  {
+    "date": "2012/01/16",
+    "keywords": [
+      "VM",
+      "Virtual Machine",
+      "cross-browser",
+      "website compatibility"
+    ],
+    "url": "http://browserling.com"
+  },
+  {
+    "date": "2012/01/12",
+    "keywords": [
+      "ruby",
+      "tips"
+    ],
+    "url": "http://rubyquicktips.com/"
+  },
+  {
+    "date": "2012/01/12",
+    "keywords": [
+      "vjeux",
+      "raytracer",
+      "javascript",
+      "Christopher Chedeau"
+    ],
+    "url": "http://blog.vjeux.com/2012/javascript/javascript-ray-tracer.html"
+  },
+  {
+    "date": "2012/01/01",
+    "keywords": [
+      "PHP",
+      "hash",
+      "DoS"
+    ],
+    "url": "http://nikic.github.com/2011/12/28/Supercolliding-a-PHP-array.html"
+  },
+  {
+    "date": "2011/12/24",
+    "keywords": [
+      "Douglas Crockford",
+      "JavaScript"
+    ],
+    "url": "http://www.youtube.com/watch?feature=player_detailpage&v=taaEzHI9xyY"
+  },
+  {
+    "date": "2011/12/22",
+    "keywords": [
+      "C",
+      "locales"
+    ],
+    "url": "http://www.chemie.fu-berlin.de/chemnet/use/info/libc/libc_19.html"
+  },
+  {
+    "date": "2011/12/17",
+    "keywords": [
+      "captchas",
+      "duolingo",
+      "translation"
+    ],
+    "url": "http://www.ted.com/talks/luis_von_ahn_massive_scale_online_collaboration.html"
+  },
+  {
+    "date": "2011/12/15",
+    "keywords": [
+      "node.js",
+      "modules",
+      "express",
+      "http server",
+      "url routing"
+    ],
+    "url": "http://www.catonmat.net/blog/nodejs-modules-express/"
+  },
+  {
+    "date": "2011/12/12",
+    "keywords": [
+      "nodes.js",
+      "modules",
+      "socket.io",
+      "websocket",
+      "push"
+    ],
+    "url": "http://www.catonmat.net/blog/nodejs-modules-socketio/"
+  },
+  {
+    "date": "2011/12/12",
+    "keywords": [
+      "python",
+      "optimization",
+      "array initialization"
+    ],
+    "url": "http://stackoverflow.com/questions/537086/reserve-memory-for-list-in-python"
+  },
+  {
+    "date": "2011/12/12",
+    "keywords": [
+      "C",
+      "C++",
+      "predefined macros"
+    ],
+    "url": "http://predef.sourceforge.net"
+  },
+  {
+    "date": "2011/12/12",
+    "keywords": [
+      "C",
+      "testing",
+      "fault injection",
+      "library"
+    ],
+    "url": "http://blitiri.com.ar/p/libfiu/"
+  },
+  {
+    "date": "2011/12/11",
+    "keywords": [
+      "PHP",
+      "unicode",
+      "PHP6"
+    ],
+    "url": "http://www.slideshare.net/andreizm/the-good-the-bad-and-the-ugly-what-happened-to-unicode-and-php-6"
+  },
+  {
+    "date": "2011/12/11",
+    "keywords": [
+      "mobile development",
+      "cross platform",
+      "android",
+      "IOS"
+    ],
+    "url": "http://phonegap.com"
+  },
+  {
+    "date": "2011/12/08",
+    "keywords": [
+      "node.js",
+      "modules",
+      "seq",
+      "chaining operations"
+    ],
+    "url": "http://substack.net/posts/e0741f"
+  },
+  {
+    "date": "2011/12/07",
+    "keywords": [
+      "C",
+      "C++",
+      "evaluation order"
+    ],
+    "url": "http://herbsutter.com/2011/12/02/gotw-102-exception-safe-function-calls-difficulty-710/"
+  },
+  {
+    "date": "2011/12/06",
+    "keywords": [
+      "french government",
+      "open data"
+    ],
+    "url": "http://www.data.gouv.fr"
+  },
+  {
+    "date": "2011/12/06",
+    "keywords": [
+      "node.js",
+      "modules",
+      "rpc"
+    ],
+    "url": "http://www.catonmat.net/blog/nodejs-modules-dnode/"
+  },
+  {
+    "date": "2011/12/06",
+    "keywords": [
+      "node.js",
+      "modules",
+      "lazy"
+    ],
+    "url": "http://www.catonmat.net/blog/nodejs-modules-lazy/"
+  },
+  {
+    "date": "2011/12/05",
+    "keywords": [
+      "javascript",
+      "optimization",
+      "awful"
+    ],
+    "url": "http://blog.mrale.ph/post/12396216081/the-trap-of-the-performance-sweet-spot"
+  },
+  {
+    "date": "2011/12/03",
+    "keywords": [
+      "python",
+      "pickle",
+      "exploit",
+      "security"
+    ],
+    "url": "http://blog.nelhage.com/2011/03/exploiting-pickle/"
+  },
+  {
+    "date": "2011/12/01",
+    "keywords": [
+      "sshd",
+      "httpd",
+      "proxy",
+      "same port"
+    ],
+    "url": "http://www.rutschle.net/tech/sslh.shtml"
+  },
+  {
+    "date": "2011/12/01",
+    "keywords": [
+      "virtual memory",
+      "kernel"
+    ],
+    "url": "http://blog.corensic.com/2011/11/28/virtual-machines-memory/"
+  },
+  {
+    "date": "2011/11/30",
+    "keywords": [
+      "functional programming",
+      "java"
+    ],
+    "url": "http://www.defmacro.org/ramblings/fp.html"
+  },
+  {
+    "date": "2011/11/28",
+    "keywords": [
+      "latex",
+      "newcommand"
+    ],
+    "url": "http://www.devdaily.com/blog/post/latex/create-your-own-commands-in-latex-using-newcommand"
+  },
+  {
+    "date": "2011/11/28",
+    "keywords": [
+      "C",
+      "parsing",
+      "prototypes",
+      "marvin"
+    ],
+    "url": "http://c-faq.com/decl/spiral.anderson.html"
+  },
+  {
+    "date": "2011/11/28",
+    "keywords": [
+      "beamer",
+      "latex",
+      "howto"
+    ],
+    "url": "http://www.math-linux.com/spip.php?article77"
+  },
+  {
+    "date": "2011/11/28",
+    "keywords": [
+      "python",
+      "memoryview",
+      "optimization"
+    ],
+    "url": "http://eli.thegreenplace.net/2011/11/28/less-copies-in-python-with-the-buffer-protocol-and-memoryviews/"
+  },
+  {
+    "date": "2011/11/23",
+    "keywords": [
+      "python3",
+      "basestring undefined"
+    ],
+    "url": "http://www.rfk.id.au/blog/entry/preparing-pyenchant-for-python-3/"
+  },
+  {
+    "date": "2011/11/22",
+    "keywords": [
+      "node.js",
+      "handebook"
+    ],
+    "url": "http://visionmedia.github.com/masteringnode/book.html"
+  },
+  {
+    "date": "2011/11/22",
+    "keywords": [
+      "ebooks"
+    ],
+    "url": "http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books"
+  },
+  {
+    "date": "2011/11/22",
+    "keywords": [
+      "webdesign",
+      "scrolling"
+    ],
+    "url": "http://iampaddy.com/lifebelow600/"
+  },
+  {
+    "date": "2011/11/21",
+    "keywords": [
+      "css",
+      "reference"
+    ],
+    "url": "http://instacss.com"
+  },
+  {
+    "date": "2011/11/21",
+    "keywords": [
+      "programming",
+      "effectiveness",
+      "fun"
+    ],
+    "url": "http://bartoszmilewski.wordpress.com/2011/11/21/supercomputing-an-industry-in-need-of-a-revolution/"
+  },
+  {
+    "date": "2011/11/21",
+    "keywords": [
+      "gcc",
+      "C",
+      "C++",
+      "threads",
+      "transactional"
+    ],
+    "url": "http://gcc.gnu.org/wiki/TransactionalMemory"
+  },
+  {
+    "date": "2011/11/20",
+    "keywords": [
+      "css",
+      "design"
+    ],
+    "url": "http://cssgrid.net"
+  },
+  {
+    "date": "2011/11/20",
+    "keywords": [
+      "php",
+      "security",
+      "blog"
+    ],
+    "url": "http://www.php-security.org"
+  },
+  {
+    "date": "2011/11/20",
+    "keywords": [
+      "gnome",
+      "guidelines",
+      "GUI"
+    ],
+    "url": "http://developer.gnome.org/hig-book/stable/index.html.en"
+  },
+  {
+    "date": "2011/11/20",
+    "keywords": [
+      "javascript",
+      "media",
+      "framework"
+    ],
+    "url": "http://popcornjs.org"
+  },
+  {
+    "date": "2011/11/17",
+    "keywords": [
+      "Andrew Tanenbaum",
+      "interview",
+      "patrick_g",
+      "MINIX"
+    ],
+    "url": "http://linuxfr.org/nodes/88229/comments/1291183"
+  },
+  {
+    "date": "2011/11/16",
+    "keywords": [
+      "node.js",
+      "jobs"
+    ],
+    "url": "http://jobs.nodejs.org/a/jobs/find-jobs"
+  },
+  {
+    "date": "2011/11/16",
+    "keywords": [
+      "Douglas Crockford",
+      "Javascript",
+      "awesome"
+    ],
+    "url": "http://www.youtube.com/watch?v=hQVTIJBZook"
+  },
+  {
+    "date": "2011/11/16",
+    "keywords": [
+      "malloc",
+      "check return value"
+    ],
+    "url": "http://gustedt.wordpress.com/2011/11/05/chasing-a-phantom-checking-the-return-of-malloc/"
+  },
+  {
+    "date": "2011/11/14",
+    "keywords": [
+      "C++11",
+      "lambda"
+    ],
+    "url": "http://eli.thegreenplace.net/2011/11/14/anonymous-functions-lambdas-in-c11/"
+  },
+  {
+    "date": "2011/11/14",
+    "keywords": [
+      "boost",
+      "asio",
+      "serialization",
+      "protobuf"
+    ],
+    "url": "http://eli.thegreenplace.net/2011/03/20/boost-asio-with-protocol-buffers-code-sample/"
+  },
+  {
+    "date": "2011/11/14",
+    "keywords": [
+      "C++",
+      "C++11",
+      "threading",
+      "concurrency",
+      "functional"
+    ],
+    "url": "http://bartoszmilewski.wordpress.com"
+  },
+  {
+    "date": "2011/11/12",
+    "keywords": [
+      "relocation",
+      "ELF",
+      "shared library",
+      "PIC"
+    ],
+    "url": "http://eli.thegreenplace.net/2011/11/03/position-independent-code-pic-in-shared-libraries/"
+  },
+  {
+    "date": "2011/11/12",
+    "keywords": [
+      "relocation",
+      "ELF",
+      "shared library",
+      "load time"
+    ],
+    "url": "http://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/"
+  },
+  {
+    "date": "2011/11/11",
+    "keywords": [
+      "security",
+      "windows",
+      "patch tuesday"
+    ],
+    "url": "http://technet.microsoft.com/en-us/security/bulletin/ms11-083"
+  },
+  {
+    "date": "2011/11/07",
+    "keywords": [
+      "network programming",
+      "optimization",
+      "TCP CORK",
+      "Nagle algorithm"
+    ],
+    "url": "http://baus.net/on-tcp_cork"
+  },
+  {
+    "date": "2011/11/07",
+    "keywords": [
+      "vim",
+      "folding"
+    ],
+    "url": "http://qanuq.com/index.php?post/2009/04/13/Utiliser-les-replis-%28folding%29-de-Vim"
+  },
+  {
+    "date": "2011/11/07",
+    "keywords": [
+      "security",
+      "web"
+    ],
+    "url": "http://www.robtex.com"
+  },
+  {
+    "date": "2011/11/06",
+    "keywords": [
+      "ELF",
+      "linux",
+      ".got .plt"
+    ],
+    "url": "http://www.segmentationfault.fr/linux/role-plt-got-ld-so/"
+  },
+  {
+    "date": "2011/11/06",
+    "keywords": [
+      "face recognition"
+    ],
+    "url": "http://www.seeingmachines.com/product/faceapi/"
+  },
+  {
+    "date": "2011/11/06",
+    "keywords": [
+      "flowchart",
+      "diagram",
+      "graph"
+    ],
+    "url": "http://www.gliffy.com"
+  },
+  {
+    "date": "2011/11/06",
+    "keywords": [
+      "SQL",
+      "tree representation"
+    ],
+    "url": "http://sqlpro.developpez.com/cours/arborescence/"
+  },
+  {
+    "date": "2011/11/06",
+    "keywords": [
+      "blog",
+      "C",
+      "C++",
+      "python",
+      "programming"
+    ],
+    "url": "http://eli.thegreenplace.net"
+  },
+  {
+    "date": "2011/11/05",
+    "keywords": [
+      "blog",
+      "vjeux",
+      "Christopher Chedeau",
+      "javascript",
+      "functional programming"
+    ],
+    "url": "http://blog.vjeux.com"
+  },
+  {
+    "date": "2011/11/05",
+    "keywords": [
+      "blog",
+      "ubitux",
+      "programming",
+      "pokemon",
+      "ffmpeg"
+    ],
+    "url": "http://blog.pkh.me"
+  },
+  {
+    "date": "2011/11/05",
+    "keywords": [
+      "blog",
+      "niluje",
+      "brmzkw"
+    ],
+    "url": "http://blog.brmzkw.info"
+  }
+]
