@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2019/07/02 | golang error handling | https://blog.golang.org/errors-are-values |
 | 2019/06/20 | SLO SLI SLA cloud | https://blog.acolyer.org/2019/06/19/nines-are-not-enough/ |
 | 2019/06/18 | javascript console features | https://constantin-boulanger.fr/en-faire-plus-avec-la-console-javascript-console-log/ |
 | 2019/06/10 | docker linux bootable image | https://micromind.me/en/posts/from-docker-container-to-bootable-linux-disk-image/ |
