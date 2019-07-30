@@ -1,5 +1,15 @@
 [
   {
+    "date": "2019/07/30", 
+    "keywords": [
+      "tcpdump", 
+      "exec", 
+      "arbitrary command", 
+      "security"
+    ], 
+    "url": "https://insinuator.net/2019/07/how-to-break-out-of-restricted-shells-with-tcpdump/"
+  }, 
+  {
     "date": "2019/07/02", 
     "keywords": [
       "golang", 
