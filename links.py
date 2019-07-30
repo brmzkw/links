@@ -78,11 +78,17 @@ def main():
         url = args.add[0]
         keywords = args.add[1:]
         add_entry(args.linksfile.name, links, url, keywords)
+        sys.exit(0)
 
     if args.markdownify:
         print(markdownify(links))
+        sys.exit(0)
     if args.rss:
         build_rss(links, args.rss)
+        sys.exit(0)
+
+    # No args
+    sys.exit(1)
 
 
 if __name__ == '__main__':
