@@ -2,6 +2,14 @@
   {
     "date": "2019/08/12", 
     "keywords": [
+      "x86", 
+      "backdoor"
+    ], 
+    "url": "https://www.youtube.com/watch?v=_eSAF_qT_FY"
+  }, 
+  {
+    "date": "2019/08/12", 
+    "keywords": [
       "event storage", 
       "postgresql"
     ], 
