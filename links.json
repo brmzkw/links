@@ -1,5 +1,13 @@
 [
   {
+    "date": "2019/08/12", 
+    "keywords": [
+      "event storage", 
+      "postgresql"
+    ], 
+    "url": "https://dev.to/kspeakman/event-storage-in-postgres-4dk2"
+  }, 
+  {
     "date": "2019/07/30", 
     "keywords": [
       "tcpdump", 

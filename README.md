@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2019/08/12 | event storage postgresql | https://dev.to/kspeakman/event-storage-in-postgres-4dk2 |
 | 2019/07/30 | tcpdump exec arbitrary command security | https://insinuator.net/2019/07/how-to-break-out-of-restricted-shells-with-tcpdump/ |
 | 2019/07/02 | golang error handling | https://blog.golang.org/errors-are-values |
 | 2019/06/20 | SLO SLI SLA cloud | https://blog.acolyer.org/2019/06/19/nines-are-not-enough/ |
