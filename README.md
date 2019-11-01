@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2019/11/01 | TCP keepalive | https://blog.cloudflare.com/when-tcp-sockets-refuse-to-die/ |
 | 2019/11/01 | estimations numbers fermi | https://www.youtube.com/watch?v=IxkSlnrRFqc |
 | 2019/09/27 | flexbox CSS | https://internetingishard.com/html-and-css/flexbox/ |
 | 2019/08/29 | backups cloud | https://www.arqbackup.com |
