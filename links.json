@@ -1,5 +1,14 @@
 [
   {
+    "date": "2019/11/05", 
+    "keywords": [
+      "ansible", 
+      "molecule", 
+      "testing"
+    ], 
+    "url": "https://www.jeffgeerling.com/blog/2018/testing-your-ansible-roles-molecule"
+  }, 
+  {
     "date": "2019/11/01", 
     "keywords": [
       "TCP", 
