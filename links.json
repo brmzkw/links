@@ -5,6 +5,14 @@
       "PostgreSQL", 
       "HA"
     ], 
+    "url": "https://github.com/zalando/patroni"
+  }, 
+  {
+    "date": "2019/12/12", 
+    "keywords": [
+      "PostgreSQL", 
+      "HA"
+    ], 
     "url": "https://repmgr.org/"
   }, 
   {

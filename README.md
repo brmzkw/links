@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2019/12/12 | PostgreSQL HA | https://github.com/zalando/patroni |
 | 2019/12/12 | PostgreSQL HA | https://repmgr.org/ |
 | 2019/12/12 | PostgreSQL HA | https://www.clusterlabs.org/ |
 | 2019/11/05 | ansible molecule testing | https://www.jeffgeerling.com/blog/2018/testing-your-ansible-roles-molecule |
