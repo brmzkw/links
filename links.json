@@ -1,5 +1,13 @@
 [
   {
+    "date": "2019/12/12", 
+    "keywords": [
+      "PostgreSQL", 
+      "HA"
+    ], 
+    "url": "https://www.clusterlabs.org/"
+  }, 
+  {
     "date": "2019/11/05", 
     "keywords": [
       "ansible", 

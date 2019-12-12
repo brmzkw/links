@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2019/12/12 | PostgreSQL HA | https://www.clusterlabs.org/ |
 | 2019/11/05 | ansible molecule testing | https://www.jeffgeerling.com/blog/2018/testing-your-ansible-roles-molecule |
 | 2019/11/01 | TCP keepalive | https://blog.cloudflare.com/when-tcp-sockets-refuse-to-die/ |
 | 2019/11/01 | estimations numbers fermi | https://www.youtube.com/watch?v=IxkSlnrRFqc |
