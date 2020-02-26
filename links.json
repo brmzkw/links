@@ -1,5 +1,14 @@
 [
   {
+    "date": "2020/02/26", 
+    "keywords": [
+      "SRE", 
+      "metrics", 
+      "meaningful availability"
+    ], 
+    "url": "https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf"
+  }, 
+  {
     "date": "2020/02/24", 
     "keywords": [
       "ansible", 
