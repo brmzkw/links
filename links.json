@@ -1,5 +1,14 @@
 [
   {
+    "date": "2020/03/04", 
+    "keywords": [
+      "ansible", 
+      "indentation", 
+      "jinja2"
+    ], 
+    "url": "https://ansiblemaster.wordpress.com/2016/07/29/jinja2-lstrip_blocks-to-manage-indentation/"
+  }, 
+  {
     "date": "2020/02/26", 
     "keywords": [
       "SRE", 
