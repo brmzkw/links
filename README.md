@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2020/04/10 | SRE book OREILLY | https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/SRS.pdf |
 | 2020/03/04 | ansible indentation jinja2 | https://ansiblemaster.wordpress.com/2016/07/29/jinja2-lstrip_blocks-to-manage-indentation/ |
 | 2020/02/26 | SRE metrics meaningful availability | https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf |
 | 2020/02/24 | ansible performances speedup | https://networkgenomics.com/ansible/ |

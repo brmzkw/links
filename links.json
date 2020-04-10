@@ -1,5 +1,14 @@
 [
   {
+    "date": "2020/04/10", 
+    "keywords": [
+      "SRE", 
+      "book", 
+      "OREILLY"
+    ], 
+    "url": "https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/SRS.pdf"
+  }, 
+  {
     "date": "2020/03/04", 
     "keywords": [
       "ansible", 
