@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2020/05/19 | golang JSON parsing | https://eli.thegreenplace.net/2020/representing-json-structures-in-go/ |
 | 2020/05/15 | electronics learning tutorial | https://eater.net/shop |
 | 2020/05/13 | python tracing profiling performances | https://functiontrace.com/ |
 | 2020/05/13 | diagram python | https://diagrams.mingrammer.com/ |
