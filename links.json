@@ -1,5 +1,15 @@
 [
   {
+    "date": "2020/06/01", 
+    "keywords": [
+      "golang", 
+      "cacheline", 
+      "CPU", 
+      "optimization"
+    ], 
+    "url": "https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592"
+  }, 
+  {
     "date": "2020/05/25", 
     "keywords": [
       "vjeux", 
