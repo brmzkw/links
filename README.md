@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2020/06/12 | async python performances | http://calpaterson.com/async-python-is-not-faster.html |
 | 2020/06/01 | golang cacheline CPU optimization | https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592 |
 | 2020/05/25 | vjeux drawing | https://excalidraw.com/ |
 | 2020/05/22 | SRE ressources | https://twitter.com/stratus/status/1263528983070560257 |
