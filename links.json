@@ -2,6 +2,15 @@
   {
     "date": "2020/07/16",
     "keywords": [
+      "ansible",
+      "ssm",
+      "ssh"
+    ],
+    "url": "https://luktom.net/en/e1693-ansible-over-aws-systems-manager-sessions-a-perfect-solution-for-high-security-environments"
+  },
+  {
+    "date": "2020/07/16",
+    "keywords": [
       "workflows",
       "tool"
     ],
