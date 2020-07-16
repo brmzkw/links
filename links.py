@@ -67,7 +67,7 @@ def add_entry(linksfile, links, url, keywords):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--add', help='Link to add', nargs='+')
-    parser.add_argument('--linksfile', type=file, default=DEFAULT_LINKSFILE)
+    parser.add_argument('--linksfile', type=argparse.FileType('r'), default=DEFAULT_LINKSFILE)
     parser.add_argument('--markdownify', action='store_true', default=False)
     parser.add_argument('--rss', type=argparse.FileType('w+'), default=DEFAULT_RSSFILE)
     args = parser.parse_args()
