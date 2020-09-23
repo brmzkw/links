@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2020/09/23 | git commit message | https://github.com/haproxy/haproxy/blob/master/CONTRIBUTING#L455 |
 | 2020/09/14 | UX consulting | https://tonsky.me/consulting/ |
 | 2020/07/16 | ansible ssm ssh | https://luktom.net/en/e1693-ansible-over-aws-systems-manager-sessions-a-perfect-solution-for-high-security-environments |
 | 2020/07/16 | workflows tool | https://nodered.org/ |
