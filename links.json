@@ -1,5 +1,13 @@
 [
   {
+    "date": "2020/12/01",
+    "keywords": [
+      "CSS",
+      "separation of concerns"
+    ],
+    "url": "https://adamwathan.me/css-utility-classes-and-separation-of-concerns/"
+  },
+  {
     "date": "2020/11/18",
     "keywords": [
       "traceroute",

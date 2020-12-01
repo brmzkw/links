@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2020/12/01 | CSS separation of concerns | https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ |
 | 2020/11/18 | traceroute network troubleshooting | https://archive.nanog.org/sites/default/files/tuesday_steenbergen_troublshootingtraceroute_62.49.pdf |
 | 2020/11/03 | KBIS | monidenum.fr |
 | 2020/09/23 | git commit message | https://github.com/haproxy/haproxy/blob/master/CONTRIBUTING#L455 |
