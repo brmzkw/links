@@ -1,5 +1,14 @@
 [
   {
+    "date": "2021/01/21",
+    "keywords": [
+      "cat",
+      "terminal",
+      "escape sequences"
+    ],
+    "url": "https://ma.ttias.be/terminal-escape-sequences-the-new-xss-for-linux-sysadmins/"
+  },
+  {
     "date": "2021/01/18",
     "keywords": [
       "BI",
