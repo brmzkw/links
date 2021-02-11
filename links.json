@@ -1,5 +1,13 @@
 [
   {
+    "date": "2021/02/11",
+    "keywords": [
+      "wtf",
+      "python"
+    ],
+    "url": "https://github.com/satwikkansal/wtfpython"
+  },
+  {
     "date": "2021/01/29",
     "keywords": [
       "https://github.com/citusdata/pg_cron",

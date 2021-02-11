@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2021/02/11 | wtf python | https://github.com/satwikkansal/wtfpython |
 | 2021/01/29 | https://github.com/citusdata/pg_cron PostgreSQL cron | link |
 | 2021/01/26 | archive scrapping | https://archivebox.io/ |
 | 2021/01/21 | cat terminal escape sequences | https://ma.ttias.be/terminal-escape-sequences-the-new-xss-for-linux-sysadmins/ |
