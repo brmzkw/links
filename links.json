@@ -1,5 +1,16 @@
 [
   {
+    "date": "2021/04/02",
+    "keywords": [
+      "SSH",
+      "authentication",
+      "sssd",
+      "scale",
+      "LDAP"
+    ],
+    "url": "https://smallstep.com/blog/use-ssh-certificates/"
+  },
+  {
     "date": "2021/02/11",
     "keywords": [
       "wtf",

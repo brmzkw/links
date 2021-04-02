@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2021/04/02 | SSH authentication sssd scale LDAP | https://smallstep.com/blog/use-ssh-certificates/ |
 | 2021/02/11 | wtf python | https://github.com/satwikkansal/wtfpython |
 | 2021/01/29 | https://github.com/citusdata/pg_cron PostgreSQL cron | link |
 | 2021/01/26 | archive scrapping | https://archivebox.io/ |
