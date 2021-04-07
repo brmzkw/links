@@ -1,5 +1,16 @@
 [
   {
+    "date": "2021/04/07",
+    "keywords": [
+      "linux",
+      "kernel",
+      "networking",
+      "TIME_WAIT",
+      "socket"
+    ],
+    "url": "https://vincent.bernat.ch/fr/blog/2014-tcp-time-wait-state-linux#a-propos-de-letat-time-wait"
+  },
+  {
     "date": "2021/04/02",
     "keywords": [
       "SSH",

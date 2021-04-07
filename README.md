@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2021/04/07 | linux kernel networking TIME_WAIT socket | https://vincent.bernat.ch/fr/blog/2014-tcp-time-wait-state-linux#a-propos-de-letat-time-wait |
 | 2021/04/02 | SSH authentication sssd scale LDAP | https://smallstep.com/blog/use-ssh-certificates/ |
 | 2021/02/11 | wtf python | https://github.com/satwikkansal/wtfpython |
 | 2021/01/29 | https://github.com/citusdata/pg_cron PostgreSQL cron | link |
