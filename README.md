@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2021/07/26 | SSD write amplification | https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html |
 | 2021/07/12 | documentation writing | https://documentation.divio.com/ |
 | 2021/06/08 | MITM proxy | https://github.com/kgretzky/evilginx2 |
 | 2021/06/01 | makefile tutorial | https://makefiletutorial.com |
