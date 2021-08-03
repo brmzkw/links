@@ -1,5 +1,15 @@
 [
   {
+    "date": "2021/08/03",
+    "keywords": [
+      "PostgreSQL",
+      "EXPLAIN",
+      "ANALYZE",
+      "SQL"
+    ],
+    "url": "https://explain.depesz.com/"
+  },
+  {
     "date": "2021/07/27",
     "keywords": [
       "authentication",

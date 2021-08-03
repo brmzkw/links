@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2021/08/03 | PostgreSQL EXPLAIN ANALYZE SQL | https://explain.depesz.com/ |
 | 2021/07/27 | authentication ssh certificates | https://goteleport.com |
 | 2021/07/26 | SSD write amplification | https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html |
 | 2021/07/12 | documentation writing | https://documentation.divio.com/ |
