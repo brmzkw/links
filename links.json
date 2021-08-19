@@ -1,5 +1,14 @@
 [
   {
+    "date": "2021/08/19",
+    "keywords": [
+      "python",
+      "debugging",
+      "gdb"
+    ],
+    "url": "https://wiki.python.org/moin/DebuggingWithGdb"
+  },
+  {
     "date": "2021/08/03",
     "keywords": [
       "PostgreSQL",
