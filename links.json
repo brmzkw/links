@@ -1,5 +1,16 @@
 [
   {
+    "date": "2021/08/30",
+    "keywords": [
+      "email",
+      "dkim",
+      "spf",
+      "dmarc",
+      "security"
+    ],
+    "url": "https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/"
+  },
+  {
     "date": "2021/08/19",
     "keywords": [
       "python",

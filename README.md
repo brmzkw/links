@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2021/08/30 | email dkim spf dmarc security | https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/ |
 | 2021/08/19 | python debugging gdb | https://wiki.python.org/moin/DebuggingWithGdb |
 | 2021/08/03 | PostgreSQL EXPLAIN ANALYZE SQL | https://explain.depesz.com/ |
 | 2021/07/27 | authentication ssh certificates | https://goteleport.com |
