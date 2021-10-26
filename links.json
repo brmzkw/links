@@ -1,5 +1,14 @@
 [
   {
+    "date": "2021/10/26",
+    "keywords": [
+      "networking",
+      "osx",
+      "interfaces"
+    ],
+    "url": "https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking"
+  },
+  {
     "date": "2021/08/30",
     "keywords": [
       "email",
