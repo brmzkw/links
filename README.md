@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2022/02/25 | DNS linux | https://tailscale.com/blog/sisyphean-dns-client-linux/ |
 | 2021/10/26 | networking osx interfaces | https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking |
 | 2021/08/30 | email dkim spf dmarc security | https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/ |
 | 2021/08/19 | python debugging gdb | https://wiki.python.org/moin/DebuggingWithGdb |

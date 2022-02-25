@@ -1,5 +1,13 @@
 [
   {
+    "date": "2022/02/25",
+    "keywords": [
+      "DNS",
+      "linux"
+    ],
+    "url": "https://tailscale.com/blog/sisyphean-dns-client-linux/"
+  },
+  {
     "date": "2021/10/26",
     "keywords": [
       "networking",
