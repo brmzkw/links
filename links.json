@@ -1,5 +1,13 @@
 [
   {
+    "date": "2022/06/30",
+    "keywords": [
+      "ipset",
+      "iptables"
+    ],
+    "url": "https://www.linuxjournal.com/content/advanced-firewall-configurations-ipset"
+  },
+  {
     "date": "2022/05/10",
     "keywords": [
       "swap",
