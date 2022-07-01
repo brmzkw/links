@@ -1,5 +1,15 @@
 [
   {
+    "date": "2022/07/01",
+    "keywords": [
+      "javascript",
+      "framework",
+      "fresh",
+      "deno"
+    ],
+    "url": "https://fresh.deno.dev/"
+  },
+  {
     "date": "2022/06/30",
     "keywords": [
       "ipset",
