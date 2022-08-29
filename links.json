@@ -1,5 +1,14 @@
 [
   {
+    "date": "2022/08/29",
+    "keywords": [
+      "django",
+      "ORM",
+      "group by"
+    ],
+    "url": "https://hakibenita.com/django-group-by-sql"
+  },
+  {
     "date": "2022/07/01",
     "keywords": [
       "javascript",
