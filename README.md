@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2022/12/02 | typescript types | https://github.com/sindresorhus/type-fest |
 | 2022/08/29 | django ORM group by | https://hakibenita.com/django-group-by-sql |
 | 2022/07/01 | javascript framework fresh deno | https://fresh.deno.dev/ |
 | 2022/06/30 | ipset iptables | https://www.linuxjournal.com/content/advanced-firewall-configurations-ipset |

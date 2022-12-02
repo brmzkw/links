@@ -1,5 +1,13 @@
 [
   {
+    "date": "2022/12/02",
+    "keywords": [
+      "typescript",
+      "types"
+    ],
+    "url": "https://github.com/sindresorhus/type-fest"
+  },
+  {
     "date": "2022/08/29",
     "keywords": [
       "django",
