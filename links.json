@@ -1,5 +1,14 @@
 [
   {
+    "date": "2023/04/18",
+    "keywords": [
+      "typescript",
+      "errors",
+      "vscode"
+    ],
+    "url": "https://github.com/yoavbls/pretty-ts-errors"
+  },
+  {
     "date": "2023/04/13",
     "keywords": [
       "React",
