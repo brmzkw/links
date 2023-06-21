@@ -1,5 +1,13 @@
 [
   {
+    "date": "2023/06/21",
+    "keywords": [
+      "CLI",
+      "design"
+    ],
+    "url": "https://blog.developer.atlassian.com/10-design-principles-for-delightful-clis/"
+  },
+  {
     "date": "2023/04/24",
     "keywords": [
       "docker",

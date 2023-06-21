@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2023/06/21 | CLI design | https://blog.developer.atlassian.com/10-design-principles-for-delightful-clis/ |
 | 2023/04/24 | docker buildx cache | https://lipanski.com/posts/speed-up-your-docker-builds-with-cache-from |
 | 2023/04/19 | error messages | https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f |
 | 2023/04/18 | typescript errors vscode | https://github.com/yoavbls/pretty-ts-errors |
