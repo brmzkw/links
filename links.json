@@ -1,5 +1,14 @@
 [
   {
+    "date": "2023/08/22",
+    "keywords": [
+      "bubbletea",
+      "CLI",
+      "golang"
+    ],
+    "url": "https://charm.sh/blog/commands-in-bubbletea/"
+  },
+  {
     "date": "2023/06/21",
     "keywords": [
       "CLI",

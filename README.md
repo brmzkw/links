@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2023/08/22 | bubbletea CLI golang | https://charm.sh/blog/commands-in-bubbletea/ |
 | 2023/06/21 | CLI design | https://clig.dev/#naming |
 | 2023/06/21 | CLI design | https://blog.developer.atlassian.com/10-design-principles-for-delightful-clis/ |
 | 2023/04/24 | docker buildx cache | https://lipanski.com/posts/speed-up-your-docker-builds-with-cache-from |
