@@ -1,5 +1,14 @@
 [
   {
+    "date": "2024/01/30",
+    "keywords": [
+      "golang",
+      "interface",
+      "pollution"
+    ],
+    "url": "https://www.ardanlabs.com/blog/2016/10/avoid-interface-pollution.html"
+  },
+  {
     "date": "2023/11/22",
     "keywords": [
       "CSS",
