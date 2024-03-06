@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2024/03/06 | golang critics | https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride |
 | 2024/02/05 | golang unittest | https://www.youtube.com/watch?v=8hQG7QlcLBk |
 | 2024/01/30 | golang interface pollution | https://www.ardanlabs.com/blog/2016/10/avoid-interface-pollution.html |
 | 2023/11/22 | CSS unit size | https://whatunit.com/ |
