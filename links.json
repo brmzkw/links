@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024/05/13",
+    "keywords": [
+      "gitlab",
+      "prometheus",
+      "monitoring",
+      "anomaly detection"
+    ],
+    "url": "https://about.gitlab.com/blog/2019/07/23/anomaly-detection-using-prometheus/"
+  },
+  {
     "date": "2024/03/06",
     "keywords": [
       "golang",
