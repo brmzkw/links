@@ -1,5 +1,13 @@
 [
   {
+    "date": "2025/02/26",
+    "keywords": [
+      "react-select",
+      "tailwind"
+    ],
+    "url": "https://www.jussivirtanen.fi/writing/styling-react-select-with-tailwind"
+  },
+  {
     "date": "2024/05/14",
     "keywords": [
       "cURL",

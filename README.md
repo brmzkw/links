@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2025/02/26 | react-select tailwind | https://www.jussivirtanen.fi/writing/styling-react-select-with-tailwind |
 | 2024/05/14 | cURL test http | https://hurl.dev/ |
 | 2024/05/13 | gitlab prometheus monitoring anomaly detection | https://about.gitlab.com/blog/2019/07/23/anomaly-detection-using-prometheus/ |
 | 2024/03/06 | golang critics | https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang |
