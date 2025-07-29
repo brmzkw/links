@@ -1,5 +1,12 @@
 [
   {
+    "date": "2025/07/29",
+    "keywords": [
+      "react-query"
+    ],
+    "url": "https://tkdodo.eu/blog/practical-react-query"
+  },
+  {
     "date": "2025/03/04",
     "keywords": [
       "react-grid",
