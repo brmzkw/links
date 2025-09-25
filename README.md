@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2025/09/25 | CSS selector weight | https://playfulprogramming.com/posts/css-specificity-explained |
 | 2025/07/29 | react-query | https://tkdodo.eu/blog/practical-react-query |
 | 2025/03/04 | react-grid layout panel | https://github.com/react-grid-layout/react-grid-layout |
 | 2025/02/26 | react-select tailwind | https://www.jussivirtanen.fi/writing/styling-react-select-with-tailwind |

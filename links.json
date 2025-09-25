@@ -1,5 +1,14 @@
 [
   {
+    "date": "2025/09/25",
+    "keywords": [
+      "CSS",
+      "selector",
+      "weight"
+    ],
+    "url": "https://playfulprogramming.com/posts/css-specificity-explained"
+  },
+  {
     "date": "2025/07/29",
     "keywords": [
       "react-query"
