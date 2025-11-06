@@ -1,5 +1,13 @@
 [
   {
+    "date": "2025/11/06",
+    "keywords": [
+      "PostHog",
+      "scaling"
+    ],
+    "url": "https://newsletter.posthog.com/p/32-things-weve-learned-from-scaling"
+  },
+  {
     "date": "2025/09/25",
     "keywords": [
       "CSS",
