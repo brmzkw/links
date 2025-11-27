@@ -1,5 +1,14 @@
 [
   {
+    "date": "2025/11/27",
+    "keywords": [
+      "typescript",
+      "omit",
+      "discriminated unions"
+    ],
+    "url": "https://tkdodo.eu/blog/omit-for-discriminated-unions-in-type-script"
+  },
+  {
     "date": "2025/11/06",
     "keywords": [
       "PostHog",
