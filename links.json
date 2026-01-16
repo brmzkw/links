@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026/01/16",
+    "keywords": [
+      "react-query",
+      "tanstack"
+    ],
+    "url": "https://tkdodo.eu/blog/practical-react-query"
+  },
+  {
     "date": "2025/11/27",
     "keywords": [
       "typescript",
