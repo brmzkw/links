@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026/04/30",
+    "keywords": [
+      "curl",
+      "bash"
+    ],
+    "url": "https://lukespademan.com/blog/the-dangers-of-curlbash/"
+  },
+  {
     "date": "2026/01/16",
     "keywords": [
       "react-query",
