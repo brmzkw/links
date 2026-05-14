@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2026/05/14 |  | https://github.com/lirantal/npm-security-best-practices |
 | 2026/04/30 | curl bash | https://lukespademan.com/blog/the-dangers-of-curlbash/ |
 | 2026/01/16 | react-query tanstack | https://tkdodo.eu/blog/practical-react-query |
 | 2025/11/27 | typescript omit discriminated unions | https://tkdodo.eu/blog/omit-for-discriminated-unions-in-type-script |
