@@ -2,6 +2,14 @@
   {
     "date": "2026/06/01",
     "keywords": [
+      "react",
+      "code layout"
+    ],
+    "url": "https://tkdodo.eu/blog/the-vertical-codebase"
+  },
+  {
+    "date": "2026/06/01",
+    "keywords": [
       "unmount",
       "linux",
       "containers",

@@ -1,6 +1,7 @@
 
 | Date | Keywords | URL |
 |------|----------|-----|
+| 2026/06/01 | react code layout | https://tkdodo.eu/blog/the-vertical-codebase |
 | 2026/06/01 | unmount linux containers OCI | https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch |
 | 2026/05/14 |  | https://github.com/lirantal/npm-security-best-practices |
 | 2026/04/30 | curl bash | https://lukespademan.com/blog/the-dangers-of-curlbash/ |
