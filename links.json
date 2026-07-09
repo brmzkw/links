@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026/07/09",
+    "keywords": [
+      "libc",
+      "postgresql",
+      "rename",
+      "crash"
+    ],
+    "url": "https://github.com/postgres/postgres/blob/bc19f63f80109737e2610c81f65d33fc93246b2e/src/backend/storage/file/fd.c#L761-L854"
+  },
+  {
     "date": "2026/06/01",
     "keywords": [
       "react",
